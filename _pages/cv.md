@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* Ph.D in Computer Science, University of Vienna, Austria, 2020-
+* M.Sc. in Computational Linguistics (Minor: Computer Science), Ludwig Maximilian University of Munich, Germany, 2018-2020
+* Exchange Semester in Computational Linguistics, University of Potsdam, Germany, 2016
+* 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -26,15 +26,6 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
