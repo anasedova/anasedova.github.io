@@ -11,10 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Vienna, Austria, 2020-
-* M.Sc. in Computational Linguistics (Minor: Computer Science), Ludwig Maximilian University of Munich, Germany, 2018-2020
-* Exchange Semester in Computational Linguistics, University of Potsdam, Germany, 2016
-* 
+* Ph.D in Computer Science
+    * University of Vienna, Austria, 2020-
+* M.Sc. in Computational Linguistics (Minor: Computer Science)
+    * Ludwig Maximilian University of Munich, Germany, 2018-2020
+* Exchange Semester in Computational Linguistics
+    * University of Potsdam, Germany, 2016
+
 Work experience
 ======
 * Summer 2015: Research Assistant
