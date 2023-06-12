@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anastasiia Sedova"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD Student in the Research Group Data Mining and Machine Learning at the University of Vienna"
   location         : "Vienna, Austria"
   employer         :
