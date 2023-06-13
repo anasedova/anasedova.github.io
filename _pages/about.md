@@ -38,8 +38,8 @@ I am also happy to serve as a reviewer at the international conferences, such as
 
 ## Thesis supervision
 
-- Benedikt Köhler (11/2023-) _Political Leaning Prediction of News Paper Articles_, MSc thesis
-- Sarah Sulollari (10/2023- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, MSc thesis
+- Benedikt Köhler (11/2022-) _Political Leaning Prediction of News Paper Articles_, MSc thesis
+- Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, MSc thesis
 - Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, MSc thesis
 
 
