@@ -49,13 +49,17 @@ I am also happy to serve as a reviewer at the international conferences, such as
 
 ## Selected Publications
 
-- **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth. Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal. \
+- [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) \
+**Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023 (poster)
-- **Anastasiia Sedova**, Benjamin Roth. ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion. \
+- [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://arxiv.org/pdf/2305.06395) \
+**Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 (poster)
-- **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth. Knodle: Modular Weakly Supervised Learning with PyTorch. \
+- [Knodle: Modular Weakly Supervised Learning with PyTorch](https://arxiv.org/pdf/2104.11557) \
+**Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \ 
 RepL4NLP-2021, ACL 2021 (poster)
-- **Anastasiia Sedova**, Olga Mitrofanova. Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions. \
+- Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
+**Anastasiia Sedova**, Olga Mitrofanova \
 IMS 2017.
 
 ## Thesis supervision
