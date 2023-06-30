@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here you can find my up-to-date [CV]().
+Here you can find my up-to-date [CV](http://anasedova.github.io/files/CV.pdf).
 
 [//]: # ({% include base_path %})
 
