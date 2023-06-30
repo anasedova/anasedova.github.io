@@ -5,12 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+- Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
+**Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
+ECML PKDD 2023 \
+[paper](https://arxiv.org/pdf/2306.04502) [citation]()
 
-{% include base_path %}
+- ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
+**Anastasiia Sedova**, Benjamin Roth \
+ACL 2023 \
+[paper](https://arxiv.org/pdf/2104.11557)) [citation]()
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Knodle: Modular Weakly Supervised Learning with PyTorch \
+**Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \ 
+RepL4NLP-2021, ACL 2021 \
+[paper](https://arxiv.org/pdf/2104.11557) [citation]()
+
+- Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
+**Anastasiia Sedova**, Olga Mitrofanova \
+IMS 2017 \
+[paper]() [citation]()
+
+- Topic Modelling in Parallel and Comparable Fiction Texts (the case study of English and Russian prose)
+Olga Mitrofanova, **Anastasiia Sedova** \
+ITCL 2017 \
+[paper](https://dl.acm.org/doi/abs/10.1145/3143699.3143734) [citation]()

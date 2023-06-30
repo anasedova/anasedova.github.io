@@ -7,47 +7,84 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Here you can find my up-to-date [CV]().
 
-Education
-======
-* Ph.D in Computer Science
-    * University of Vienna, Austria, 2020-
-* M.Sc. in Computational Linguistics (Minor: Computer Science)
-    * Ludwig Maximilian University of Munich, Germany, 2018-2020
-* Exchange Semester in Computational Linguistics
-    * University of Potsdam, Germany, 2016
+[//]: # ({% include base_path %})
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[//]: # (Education)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[//]: # (======)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[//]: # (* Ph.D in Computer Science)
+
+[//]: # (    * University of Vienna, Austria, 2020-)
+
+[//]: # (* M.Sc. in Computational Linguistics &#40;Minor: Computer Science&#41;)
+
+[//]: # (    * Ludwig Maximilian University of Munich, Germany, 2018-2020)
+
+[//]: # (* Exchange Semester in Computational Linguistics)
+
+[//]: # (    * University of Potsdam, Germany, 2016)
+
+[//]: # ()
+[//]: # (Work experience)
+
+[//]: # (======)
+
+[//]: # (* Summer 2015: Research Assistant)
+
+[//]: # (  * Github University)
+
+[//]: # (  * Duties included: Tagging issues)
+
+[//]: # (  * Supervisor: Professor Git)
+
+[//]: # ()
+[//]: # (* Fall 2015: Research Assistant)
+
+[//]: # (  * Github University)
+
+[//]: # (  * Duties included: Merging pull requests)
+
+[//]: # (  * Supervisor: Professor Hub)
+
+[//]: # ()
+[//]: # (Publications)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.publications %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Talks)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.talks %})
+
+[//]: # (    {% include archive-single-talk-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Teaching)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.teaching %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Service and leadership)
+
+[//]: # (======)
+
+[//]: # (* Currently signed in to 43 different slack teams)

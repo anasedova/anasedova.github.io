@@ -20,10 +20,10 @@ My research interests are weak supervision, knowledge graphs, and knowledge-supe
 
 **January 2023**: I gave a talk at the [Technical University of Vienna](https://nlp.ec.tuwien.ac.at) on the potential application and future perspectives of weak supervision.
 
-**January 2022**: I attended the [ALPS2022 winter school](https://lig-alps.imag.fr) organized by the University of Grenoble Alpes and Naver Labs Europe on natural language processing.
+**January 2022**: I attended the [ALPS2022 winter school](https://lig-alps.imag.fr) on natural language processing organized by the University of Grenoble Alpes and Naver Labs Europe.
 
 **December 2021**: We are organizing a hackathon on weak supervision at the University of Vienna.
-Drop me [an email](mailto:anastasiia.sedova@univie.ac.at) for further details.
+Drop me [an email](mailto:anastasiia.sedova@univie.ac.at) for further details!
 
 **August 2021**: I presented our paper _"Knodle: Modular Weakly Supervised Learning with PyTorch"_ online at [ACL 2021](https://2021.aclweb.org/)!
 
@@ -32,7 +32,7 @@ The program included talks by Yoshua Bengio, Sebastian Ruder, Michael Bronstein 
 Acceptance rate: ~5%. 
 
 **July 2021**: This summer I'm taking part in [Google Summer of Code](https://summerofcode.withgoogle.com/). I will join [DeepPavlov](https://github.com/anasedova/DeepPavlov) team to work on relation extraction in their end-to-end chatbot. 
-Upd: check out [my Medium post](https://medium.com/deeppavlov/relation-extraction-for-deeppavlov-library-d1f7b57365b3) about it!
+Upd: check out [my Medium post](https://medium.com/deeppavlov/relation-extraction-for-deeppavlov-library-d1f7b57365b3)!
 
 **July 2021**: I gave a talk at [Munich NLP Meetup](https://www.meetup.com/de-DE/natural-language-processing-understanding-nlp-nlu/) introducing our freshly-baked Knodle!
 
@@ -60,7 +60,7 @@ ACL 2023 (poster)
 RepL4NLP-2021, ACL 2021 (poster)
 - Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
 **Anastasiia Sedova**, Olga Mitrofanova \
-IMS 2017.
+IMS 2017 (oral)
 
 ## Thesis supervision
 
