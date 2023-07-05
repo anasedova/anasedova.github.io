@@ -25,6 +25,8 @@ My research interests are weak supervision, knowledge graphs, and knowledge-supe
 **December 2021**: We are organizing a hackathon on weak supervision at the University of Vienna.
 Drop me [an email](mailto:anastasiia.sedova@univie.ac.at) for further details!
 
+**November 2021**: I presented the Knodle framework at the Workshop of European Language Resource Coordination (ELRC).  
+
 **August 2021**: I presented our paper _"Knodle: Modular Weakly Supervised Learning with PyTorch"_ online at [ACL 2021](https://2021.aclweb.org/)!
 
 **August 2021**: I attended the [OxML'21 summer school](https://www.oxfordml.school/oxml2021) organized by AI for Global Goals in partnership with CIFAR and the University of Oxford.
