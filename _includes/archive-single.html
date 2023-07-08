@@ -55,9 +55,8 @@
     {% if post.authors %}
       {{ post.authors }}
     {% endif %}
-    <br>
     {% if post.venue %}
-      {{ post.venue }}
+      <br>{{ post.venue }}
     {% endif %}
 
     <!-- {% if post.citation and post.paperurl %}
@@ -69,7 +68,7 @@
     {% endif %} -->
 
     {% if post.paperurl %}
-      <a href=" {{ post.paperurl }} "><u>paper</u></a></p>
+      <br><a href=" {{ post.paperurl }} ">paper</a>
     {% endif %}
 
     {% if post.abstract %}
