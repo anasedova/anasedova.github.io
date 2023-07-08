@@ -8,7 +8,7 @@ author_profile: true
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023 \
-[paper](https://arxiv.org/pdf/2306.04502) [citation]()
+[paper](https://arxiv.org/pdf/2306.04502) [citation]() \
 <details>
   <summary>Abstract</summary>
   
