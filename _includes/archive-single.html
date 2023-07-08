@@ -68,6 +68,10 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %} -->
 
+    {% if post.paperurl %}
+      <a href=" {{ post.paperurl }} "><u>paper</u></a></p>
+    {% endif %}
+
     {% if post.abstract %}
       <details>
         <summary>Abstract</summary>
