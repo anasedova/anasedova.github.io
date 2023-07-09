@@ -50,7 +50,7 @@
     {% endif %}
 
     {% if post.citation %}
-      <button onclick="showPopup()">Citation</button>
+      <button onclick="showPopup()" class=".btn">Citation</button>
     {% endif %}
 
     {% if post.abstract %}
@@ -67,7 +67,7 @@
   <div id="popup" style="display: none;">
     {{ post.citation }}
     <br>
-    <button onclick="copyToClipboard()">Copy to Clipboard</button>
+    <button onclick="copyToClipboard()" class=".btn">Copy to Clipboard</button>
   </div>
 
   <script>
@@ -84,6 +84,5 @@
       textarea.select();
       document.execCommand("copy");
       document.body.removeChild(textarea);
-      alert("Content copied to clipboard!");
     }
   </script>
