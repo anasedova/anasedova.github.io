@@ -29,3 +29,13 @@ IMS 2017 \
 Olga Mitrofanova, **Anastasiia Sedova** \
 ITCL 2017 \
 [paper](https://dl.acm.org/doi/abs/10.1145/3143699.3143734) [citation]()
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
