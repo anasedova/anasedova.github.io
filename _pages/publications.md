@@ -8,8 +8,8 @@ author_profile: true
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023 \
-[paper](https://arxiv.org/pdf/2306.04502) [citation]() \
-<details>
+[paper](https://arxiv.org/pdf/2306.04502) [citation]() 
+<!-- <details>
   <summary>Abstract</summary>
   
   An accurate and substantial dataset is essential for training
@@ -28,13 +28,13 @@ should be left out for the current update. Extensive evaluation on sev-
 eral datasets demonstrates AGRA’s effectiveness, while a comprehensive
 results analysis supports our initial hypothesis: permanent hard outlier
 removal is not always what model benefits the most from.
-</details>
+</details> -->
 
 
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
 **Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 \
-[paper](https://arxiv.org/pdf/2104.11557)) [citation]()
+[paper](https://arxiv.org/pdf/2104.11557) [citation]()
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \ 
@@ -51,7 +51,7 @@ Olga Mitrofanova, **Anastasiia Sedova** \
 ITCL 2017 \
 [paper](https://dl.acm.org/doi/abs/10.1145/3143699.3143734) [citation]()
 
-
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -60,4 +60,4 @@ ITCL 2017 \
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
