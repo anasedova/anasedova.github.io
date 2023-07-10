@@ -31,14 +31,15 @@ author_profile: true
       width: 800px;
     }
     .swal-text {
-        font-size: 16px;
+        font-size: 18px;
         padding: 30px;
-        line-height: 27px;
+        line-height: 25px;
         text-align: justify;
     }
     .swal-title{
-        font-size: 30px;
+        font-size: 28px;
         padding: 30px;
+        margin-bottom: -30px;
     }
 </style>
 
@@ -52,14 +53,14 @@ ECML PKDD 2023 \
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
 **Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 \
-[paper](https://arxiv.org/pdf/2305.06395)
+[paper](https://aclanthology.org/2023.acl-short.158.pdf)
 <a href="javascript:addAbstract(actc_abstract, 'ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion')">abstract</a>
 <a href="javascript:copyCitation(actc_citation, actc_citation_text)">.bibtex</a>
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
 RepL4NLP @ ACL 2021 \
-[paper](https://arxiv.org/pdf/2104.11557)
+[paper](https://aclanthology.org/2021.repl4nlp-1.12.pdf)
 <a href="javascript:addAbstract(knodle_abstract, 'Knodle: Modular Weakly Supervised Learning with PyTorch')">abstract</a>
 <a href="javascript:copyCitation(knodle_citation, knodle_citation_text)">.bibtex</a>
 
