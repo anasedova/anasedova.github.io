@@ -42,7 +42,9 @@ Upd: check out [my Medium post](https://medium.com/deeppavlov/relation-extractio
 
 **June 2021**: Our paper _"Knodle: Modular Weakly Supervised Learning with PyTorch"_ was accepted to the [Workshop on Representation Learning for NLP (RepL4NLP)](https://aclanthology.org/2021.repl4nlp-1.0/) hosted at ACL 2021! (poster) Check it out [here](https://arxiv.org/abs/2104.11557). 
 
-**May 2021**: I gave a talk at the [Bosch Natural Language Processing and Semantic Reasoning Lab](https://www.bosch-ai.com/research/fields-of-expertise/natural-language-processing/) presenting [Knodle](www.knodle.cc), our new framework for weak supervision!
+**May 2021**: I gave a talk at the [Bosch NLP and Semantic Reasoning Lab](https://www.bosch-ai.com/research/fields-of-expertise/natural-language-processing/) presenting [Knodle](www.knodle.cc).
+
+**April 2021**: [Knodle](www.knodle.cc) first release!! Check out the [source code](https://github.com/knodle/knodle). 
 
 I am also happy to serve as a reviewer at the international conferences, such as ACL, EMNLP, ECML, and others.
 
