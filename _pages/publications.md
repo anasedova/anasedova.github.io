@@ -36,6 +36,7 @@ author_profile: true
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023 \
 [paper](https://arxiv.org/pdf/2306.04502)
+- <a href="javascript:addAbstract(actc_abstract)">.bibtex</a>
 <a href="javascript:copyCitation(agra_citation, agra_citation_text)">.bibtex</a>
 
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \

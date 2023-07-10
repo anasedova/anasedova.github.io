@@ -7,6 +7,13 @@ function copyCitation(citation, citation_text) {
 })
 }
 
+function addAbstract(abstract) {
+  swal({text: abstract})
+}
+
+
+var actc_abstract = 'Here is ACTC abstract.';
+
 var actc_citation = '@inproceedings{sedova-roth-2023-actc,' +
     'title = "{ACTC}: Active Threshold Calibration for Cold-Start Knowledge Graph Completion",' +
     'author = "Sedova, Anastasiia  and Roth, Benjamin",' +
