@@ -27,7 +27,7 @@ author_profile: true
     function copyCitation() {
       var copyText = "some text to be copied";
       navigator.clipboard.writeText(copyText.value);
-      alert("Copied the text: " + copyText.value);
+      alert("The citation is copied to the clipboard");
     }
 </script>
 
