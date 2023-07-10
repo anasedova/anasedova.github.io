@@ -43,13 +43,14 @@ ECML PKDD 2023 \
 **Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 \
 [paper](https://arxiv.org/pdf/2305.06395)
-- <a href="javascript:addAbstract(agra_abstract, 'ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion')">abstract</a>
+<a href="javascript:addAbstract(agra_abstract, 'ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion')">abstract</a>
 <a href="javascript:copyCitation(actc_citation, actc_citation_text)">.bibtex</a>
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
 RepL4NLP @ ACL 2021 \
 [paper](https://arxiv.org/pdf/2104.11557)
+<a href="javascript:addAbstract(knodle_abstract, 'Knodle: Modular Weakly Supervised Learning with PyTorch')">abstract</a>
 <a href="javascript:copyCitation(knodle_citation, knodle_citation_text)">.bibtex</a>
 
 - Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
@@ -61,4 +62,5 @@ IMS 2017 \
 Olga Mitrofanova, **Anastasiia Sedova** \
 ITCL 2017 \
 [paper](https://dl.acm.org/doi/abs/10.1145/3143699.3143734)
+<a href="javascript:addAbstract(topic_modeling_comparable_abstract, 'Topic Modelling in Parallel and Comparable Fiction Texts (the case study of English and Russian prose)')">abstract</a>
 <a href="javascript:copyCitation(topic_modeling_comparable_citation, topic_modeling_comparable_citation_text)">.bibtex</a>

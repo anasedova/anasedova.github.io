@@ -58,6 +58,8 @@ var agra_citation_text = "@misc{sedova2023learning,\n" +
     " &emsp; archivePrefix={arXiv},\n" +
     " &emsp; primaryClass={cs.LG} \n }";
 
+var knodle_abstract = "Strategies for improving the training and predic- tion quality of weakly supervised machine learn- ing models vary in how much they are tailored to a specific task or integrated with a specific model architecture. In this work, we introduce Knodle, a software framework that treats weak data annota- tions, deep learning models, and methods for im- proving weakly supervised training as separate, modular components. This modularization gives the training process access to fine-grained infor- mation such as data set characteristics, matches of heuristic rules, or elements of the deep learning model ultimately used for prediction. Hence, our framework can encompass a wide range of training methods for improving weak supervision, ranging from methods that only look at correlations of rules and output classes (inde- pendently of the machine learning model trained with the resulting labels), to those that harness the interplay of neural networks and weakly labeled data. We illustrate the benchmarking potential of the framework with a performance comparison of several reference implementations on a selection of datasets that are already available in Knodle."
+
 var knodle_citation = "@inproceedings{DBLP:conf/rep4nlp/SedovaSSR21," +
     "author={Anastasiia Sedova and Andreas Stephan and Marina Speranskaya and Benjamin Roth}," +
     "title={Knodle: Modular Weakly Supervised Learning with PyTorch}," +
@@ -104,6 +106,8 @@ var topic_modeling_lemmata_citation_text = "@inproceedings{DBLP:conf/ims2/Sedova
     " &emsp; timestamp={Wed, 10 Mar 2021 10:49:24 +0100},\n" +
     " &emsp; biburl={https://dblp.org/rec/conf/ims2/SedovaM17.bib},\n" +
     " &emsp; bibsource={dblp computer science bibliography, https://dblp.org} \n }";
+
+var topic_modeling_comparable_abstract = "The paper is devoted to processing parallel and comparable corpora by means of topic modelling. We focus our attention on Russian and English parallel and comparable texts. We use Latent Dirichlet Allocation (LDA) algorithm for building topic models of fiction texts, evaluation of compatibility for the original text and its translation(s), selection of possible translation equivalents."
 
 var topic_modeling_comparable_citation = "@inproceedings{10.1145/3143699.3143734" +
     "author = {Mitrofanova, Olga and Sedova, Anastasiia}," +
