@@ -161,7 +161,7 @@ author_profile: true
 
 <style>
     .swal-modal {
-      width: 3000px;
+      width: 300px;
     }
 </style>
 
