@@ -7,8 +7,12 @@ function copyCitation(citation, citation_text) {
 })
 }
 
-function addAbstract(abstract) {
-  swal({text: abstract})
+function addAbstract(abstract, paper_name) {
+  swal({
+    title: paper_name + ': Abtract',
+    text: abstract
+  })
+
 }
 
 
