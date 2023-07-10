@@ -31,13 +31,13 @@ author_profile: true
       width: 800px;
     }
     .swal-text {
-        font-size: 20px;
+        font-size: 16px;
         padding: 30px;
-        line-height: 30px;
-        text-aligh: justify;
+        line-height: 27px;
+        text-align: justify;
     }
     .swal-title{
-        font-size: 35px;
+        font-size: 30px;
         padding: 30px;
     }
 </style>
