@@ -34,7 +34,8 @@ author_profile: true
       year={2023}, \n
       eprint={2305.06395}, \n
       archivePrefix={arXiv}, \n
-      primaryClass={cs.LG}} \n "
+      primaryClass={cs.LG}\n
+}"
 </script>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
