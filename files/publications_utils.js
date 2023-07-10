@@ -15,7 +15,6 @@ function addAbstract(abstract, paper_name) {
 
 }
 
-
 var actc_abstract = 'Here is ACTC abstract.';
 
 var actc_citation = '@inproceedings{sedova-roth-2023-actc,' +
@@ -39,6 +38,8 @@ var actc_citation_text = '@inproceedings{sedova-roth-2023-actc, \n ' +
     ' &emsp; publisher = "Association for Computational Linguistics",\n' +
     ' &emsp; url = "https://aclanthology.org/2023.acl-short.158",\n' +
     ' &emsp; pages = "1853--1863"}';
+
+var agra_abstract = "Here is AGRA abstract."
 
 var agra_citation = "@misc{sedova2023learning," +
     "title={Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal}," +
