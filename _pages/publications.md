@@ -23,7 +23,7 @@ author_profile: true
     }
   </script>
 
-<script src="anasedova.github.io/_pages/publications_utils.js"></script>
+<script src="../files/publications_utils.js"></script>
 
 <style>
     .swal-modal {
