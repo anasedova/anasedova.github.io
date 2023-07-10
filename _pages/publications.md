@@ -112,6 +112,42 @@ author_profile: true
         timestamp={Wed, 10 Mar 2021 10:49:24 +0100},\n
         biburl={https://dblp.org/rec/conf/ims2/SedovaM17.bib},\n
         bibsource={dblp computer science bibliography, https://dblp.org}}";
+
+    var topic_modeling_comparable_citation = "@inproceedings{10.1145/3143699.3143734,
+        author = {Mitrofanova, Olga and Sedova, Anastasiia},
+        title = {Topic Modelling in Parallel and Comparable Fiction Texts (the Case Study of English and Russian Prose)},
+        year = {2017},
+        isbn = {9781450354370},
+        publisher = {Association for Computing Machinery},
+        address = {New York, NY, USA},
+        url = {https://doi.org/10.1145/3143699.3143734},
+        doi = {10.1145/3143699.3143734},
+        abstract = {The paper is devoted to processing parallel and comparable corpora by means of topic modelling. We focus our attention on Russian and English parallel and comparable texts. We use Latent Dirichlet Allocation (LDA) algorithm for building topic models of fiction texts, evaluation of compatibility for the original text and its translation(s), selection of possible translation equivalents.},
+        booktitle = {Proceedings of the International Conference IMS-2017},
+        pages = {175–180},
+        numpages = {6},
+        keywords = {Topic Modelling, Fiction, Text Corpora, English, Russian, Parallel and Comparable Texts},
+        location = {Saint Petersburg, Russian Federation},
+        series = {IMS2017}";
+
+    var topic_modeling_comparable_citation_text = "@inproceedings{10.1145/3143699.3143734, \n
+        author = {Mitrofanova, Olga and Sedova, Anastasiia}, \n
+        title = {Topic Modelling in Parallel and Comparable Fiction Texts (the Case Study of English and Russian Prose)}, \n
+        year = {2017}, \n
+        isbn = {9781450354370}, \n
+        publisher = {Association for Computing Machinery}, \n
+        address = {New York, NY, USA}, \n
+        url = {https://doi.org/10.1145/3143699.3143734}, \n
+        doi = {10.1145/3143699.3143734}, \n
+        booktitle = {Proceedings of the International Conference IMS-2017},  \n
+        pages = {175–180},  \n
+        numpages = {6}, \n
+        keywords = {Topic Modelling, Fiction, Text Corpora, English, Russian, Parallel and Comparable Texts}, \n
+        location = {Saint Petersburg, Russian Federation}, \n
+        series = {IMS2017};
+}";
+
+
 </script>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
@@ -141,4 +177,4 @@ IMS 2017
 Olga Mitrofanova, **Anastasiia Sedova** \
 ITCL 2017 \
 [paper](https://dl.acm.org/doi/abs/10.1145/3143699.3143734)
-
+<a href="javascript:copyCitation(topic_modeling_comparable_citation, topic_modeling_comparable_citation_text)">.bibtex</a>
