@@ -26,6 +26,8 @@ author_profile: true
 
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
+.swal-modal {width: 1000px;}
+
 <script type = "text/javascript">
 
     function copyCitation(citation, citation_text) {
