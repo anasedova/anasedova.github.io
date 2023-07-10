@@ -23,6 +23,7 @@ author_profile: true
     }
   </script>
 
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <script src="../files/publications_utils.js"></script>
 
 <style>
