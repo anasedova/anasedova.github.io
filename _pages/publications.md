@@ -33,7 +33,7 @@ author_profile: true
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023 \
-[paper](https://arxiv.org/pdf/2306.04502) <button onclick="copyCitation(AGRA citation)">copy citation in .bibtex</button>
+[paper](https://arxiv.org/pdf/2306.04502) <a href="copyCitation(AGRA citation)">copy citation in .bibtex</a>
 
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
 **Anastasiia Sedova**, Benjamin Roth \
