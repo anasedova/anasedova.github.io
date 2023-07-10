@@ -28,14 +28,13 @@ author_profile: true
       navigator.clipboard.writeText(citation);
       alert("The citation is copied to the clipboard: \n" + citation);
     }
-
-    var actc_citation = "@misc{sedova2023actc,
-      title={ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion}, 
-      author={Anastasiia Sedova and Benjamin Roth},
-      year={2023},
-      eprint={2305.06395},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}}"
+    var actc_citation = "@misc{sedova2023actc, \n
+      title={ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion}, \n
+      author={Anastasiia Sedova and Benjamin Roth}, \n
+      year={2023}, \n
+      eprint={2305.06395}, \n
+      archivePrefix={arXiv}, \n
+      primaryClass={cs.LG}} \n "
 </script>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
