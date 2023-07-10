@@ -17,12 +17,12 @@ ACL 2023 \
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \ 
-RepL4NLP-2021, ACL 2021 \
+RepL4NLP, ACL 2021 \
 [paper](https://arxiv.org/pdf/2104.11557)
 
 - Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
 **Anastasiia Sedova**, Olga Mitrofanova \
-IMS 2017 \
+IMS 2017
 
 - Topic Modelling in Parallel and Comparable Fiction Texts (the case study of English and Russian prose)
 Olga Mitrofanova, **Anastasiia Sedova** \
