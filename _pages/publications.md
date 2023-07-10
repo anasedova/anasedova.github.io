@@ -78,21 +78,27 @@ author_profile: true
       functionAlert("The citation is copied to the clipboard: \n\n" + citation_text);
     }
 
-    var actc_citation = "@misc{sedova2023actc,
-      title={ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion},
-      author={Anastasiia Sedova and Benjamin Roth},
-      year={2023},
-      eprint={2305.06395},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}}";
+    var actc_citation = '@inproceedings{sedova-roth-2023-actc,
+        title = "{ACTC}: Active Threshold Calibration for Cold-Start Knowledge Graph Completion",
+        author = "Sedova, Anastasiia  and Roth, Benjamin",
+        booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        month = jul,
+        year = "2023",
+        address = "Toronto, Canada",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2023.acl-short.158",
+        pages = "1853--1863"}';
 
-    var actc_citation_text = "@misc{sedova2023actc, \n
-      title={ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion}, \n
-      author={Anastasiia Sedova and Benjamin Roth}, \n
-      year={2023}, \n
-      eprint={2305.06395}, \n
-      archivePrefix={arXiv}, \n
-      primaryClass={cs.LG}\n }";
+    var actc_citation_text = '@inproceedings{sedova-roth-2023-actc, \n
+        title = "{ACTC}: Active Threshold Calibration for Cold-Start Knowledge Graph Completion",\n
+        author = "Sedova, Anastasiia  and Roth, Benjamin",\n
+        booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",\n
+        month = jul,\n
+        year = "2023",\n
+        address = "Toronto, Canada",\n
+        publisher = "Association for Computational Linguistics",\n
+        url = "https://aclanthology.org/2023.acl-short.158",\n
+        pages = "1853--1863"}';
 
     var agra_citation = "@misc{sedova2023learning,
       title={Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal},
