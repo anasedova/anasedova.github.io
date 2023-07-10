@@ -13,11 +13,11 @@ ECML PKDD 2023 \
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
 **Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 \
-[paper](https://arxiv.org/pdf/2305.06395)
+[paper](https://arxiv.org/pdf/2305.06395) [citation](_publications/paper_1.html)
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
-RepL4NLP, ACL 2021 \
+ACL (RepL4NLP) 2021 \
 [paper](https://arxiv.org/pdf/2104.11557)
 
 - Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
