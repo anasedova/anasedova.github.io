@@ -43,7 +43,7 @@ ECML PKDD 2023 \
 **Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 \
 [paper](https://arxiv.org/pdf/2305.06395)
-<a href="javascript:addAbstract(agra_abstract, 'ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion')">abstract</a>
+<a href="javascript:addAbstract(actc_abstract, 'ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion')">abstract</a>
 <a href="javascript:copyCitation(actc_citation, actc_citation_text)">.bibtex</a>
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \

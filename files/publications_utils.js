@@ -15,8 +15,17 @@ function addAbstract(abstract, paper_name) {
 
 }
 
-var actc_abstract = 'Self-supervised knowledge-graph completion (KGC) relies on estimating a scoring model over (entity, relation, entity)-tuples, for exam- ple, by embedding an initial knowledge graph. Prediction quality can be improved by calibrat- ing the scoring model, typically by adjusting the prediction thresholds using manually anno- tated examples. In this paper, we attempt for the first time cold-start calibration for KGC, where no annotated examples exist initially for calibration, and only a limited number of tuples can be selected for annotation.' +
-    'Our new method ACTC finds good per-relation thresholds efficiently based on a limited set of annotated tuples. Additionally to a few anno- tated tuples, ACTC also leverages unlabeled tuples by estimating their correctness with Lo- gistic Regression or Gaussian Process classi- fiers. We also experiment with different meth- ods for selecting candidate tuples for annota- tion: density-based and random selection. Ex- periments with five scoring models and an or- acle annotator show an improvement of 7% points when using ACTC in the challenging setting with an annotation budget of only 10 tu- ples, and an average improvement of 4% points over different budgets.';
+var actc_abstract = 'Self-supervised knowledge-graph completion (KGC) relies on estimating a scoring model over ' +
+    '(entity, relation, entity)-tuples, for exam- ple, by embedding an initial knowledge graph. Prediction quality can ' +
+    'be improved by calibrating the scoring model, typically by adjusting the prediction thresholds using manually ' +
+    'annotated examples. In this paper, we attempt for the first time cold-start calibration for KGC, where no annotated' +
+    'examples exist initially for calibration, and only a limited number of tuples can be selected for annotation.' +
+    'Our new method ACTC finds good per-relation thresholds efficiently based on a limited set of annotated tuples. ' +
+    'Additionally to a few annotated tuples, ACTC also leverages unlabeled tuples by estimating their correctness ' +
+    'with Logistic Regression or Gaussian Process classifiers. We also experiment with different methods for ' +
+    'selecting candidate tuples for annotation: density-based and random selection. Experiments with five scoring ' +
+    'models and an oracle annotator show an improvement of 7% points when using ACTC in the challenging setting with an' +
+    'annotation budget of only 10 tuples, and an average improvement of 4% points over different budgets.';
 
 var actc_citation = '@inproceedings{sedova-roth-2023-actc,' +
     'title = "{ACTC}: Active Threshold Calibration for Cold-Start Knowledge Graph Completion",' +
@@ -40,7 +49,17 @@ var actc_citation_text = '@inproceedings{sedova-roth-2023-actc, \n ' +
     ' &emsp; url = "https://aclanthology.org/2023.acl-short.158",\n' +
     ' &emsp; pages = "1853--1863"}';
 
-var agra_abstract = "An accurate and substantial dataset is essential for training a reliable and well-performing model. However, even manually annotated datasets contain label errors, not to mention automatically labeled ones. Previous methods for label denoising have primarily focused on detecting outliers and their permanent removal – a process that is likely to over- or underfilter the dataset. In this work, we propose AGRA: a new method for learning with noisy labels by using Adaptive GRAdient-based outlier removal1. Instead of cleaning the dataset prior to model training, the dataset is dynamically adjusted during the training process. By compar- ing the aggregated gradient of a batch of samples and an individual exam- ple gradient, our method dynamically decides whether a corresponding example is helpful for the model at this point or is counter-productive and should be left out for the current update. Extensive evaluation on sev- eral datasets demonstrates AGRA’s effectiveness, while a comprehensive results analysis supports our initial hypothesis: permanent hard outlier removal is not always what model benefits the most from."
+var agra_abstract = "An accurate and substantial dataset is essential for training a reliable and " +
+    "well-performing model. However, even manually annotated datasets contain label errors, not to mention " +
+    "automatically labeled ones. Previous methods for label denoising have primarily focused on detecting outliers and " +
+    "their permanent removal – a process that is likely to over- or underfilter the dataset. In this work, we propose " +
+    "AGRA: a new method for learning with noisy labels by using Adaptive GRAdient-based outlier removal1. Instead of " +
+    "cleaning the dataset prior to model training, the dataset is dynamically adjusted during the training process. " +
+    "By comparing the aggregated gradient of a batch of samples and an individual example gradient, our method " +
+    "dynamically decides whether a corresponding example is helpful for the model at this point or is " +
+    "counter-productive and should be left out for the current update. Extensive evaluation on several datasets " +
+    "demonstrates AGRA’s effectiveness, while a comprehensive results analysis supports our initial hypothesis: " +
+    "permanent hard outlier removal is not always what model benefits the most from.";
 
 var agra_citation = "@misc{sedova2023learning," +
     "title={Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal}," +
@@ -58,7 +77,17 @@ var agra_citation_text = "@misc{sedova2023learning,\n" +
     " &emsp; archivePrefix={arXiv},\n" +
     " &emsp; primaryClass={cs.LG} \n }";
 
-var knodle_abstract = "Strategies for improving the training and predic- tion quality of weakly supervised machine learn- ing models vary in how much they are tailored to a specific task or integrated with a specific model architecture. In this work, we introduce Knodle, a software framework that treats weak data annota- tions, deep learning models, and methods for im- proving weakly supervised training as separate, modular components. This modularization gives the training process access to fine-grained infor- mation such as data set characteristics, matches of heuristic rules, or elements of the deep learning model ultimately used for prediction. Hence, our framework can encompass a wide range of training methods for improving weak supervision, ranging from methods that only look at correlations of rules and output classes (inde- pendently of the machine learning model trained with the resulting labels), to those that harness the interplay of neural networks and weakly labeled data. We illustrate the benchmarking potential of the framework with a performance comparison of several reference implementations on a selection of datasets that are already available in Knodle."
+var knodle_abstract = "Strategies for improving the training and prediction quality of weakly supervised " +
+    "machine learning models vary in how much they are tailored to a specific task or integrated with a specific model " +
+    "architecture. In this work, we introduce Knodle, a software framework that treats weak data annotations, deep " +
+    "learning models, and methods for improving weakly supervised training as separate, modular components. " +
+    "This modularization gives the training process access to fine-grained information such as data set characteristics," +
+    "matches of heuristic rules, or elements of the deep learning model ultimately used for prediction. " +
+    "Hence, our framework can encompass a wide range of training methods for improving weak supervision, ranging from " +
+    "methods that only look at correlations of rules and output classes (independently of the machine learning model " +
+    "trained with the resulting labels), to those that harness the interplay of neural networks and weakly labeled data." +
+    "We illustrate the benchmarking potential of the framework with a performance comparison of several reference " +
+    "implementations on a selection of datasets that are already available in Knodle.";
 
 var knodle_citation = "@inproceedings{DBLP:conf/rep4nlp/SedovaSSR21," +
     "author={Anastasiia Sedova and Andreas Stephan and Marina Speranskaya and Benjamin Roth}," +
@@ -107,7 +136,10 @@ var topic_modeling_lemmata_citation_text = "@inproceedings{DBLP:conf/ims2/Sedova
     " &emsp; biburl={https://dblp.org/rec/conf/ims2/SedovaM17.bib},\n" +
     " &emsp; bibsource={dblp computer science bibliography, https://dblp.org} \n }";
 
-var topic_modeling_comparable_abstract = "The paper is devoted to processing parallel and comparable corpora by means of topic modelling. We focus our attention on Russian and English parallel and comparable texts. We use Latent Dirichlet Allocation (LDA) algorithm for building topic models of fiction texts, evaluation of compatibility for the original text and its translation(s), selection of possible translation equivalents."
+var topic_modeling_comparable_abstract = "The paper is devoted to processing parallel and comparable corpora by " +
+    "means of topic modelling. We focus our attention on Russian and English parallel and comparable texts. We use " +
+    "Latent Dirichlet Allocation (LDA) algorithm for building topic models of fiction texts, evaluation of " +
+    "compatibility for the original text and its translation(s), selection of possible translation equivalents."
 
 var topic_modeling_comparable_citation = "@inproceedings{10.1145/3143699.3143734" +
     "author = {Mitrofanova, Olga and Sedova, Anastasiia}," +
@@ -118,7 +150,10 @@ var topic_modeling_comparable_citation = "@inproceedings{10.1145/3143699.3143734
     "address = {New York, NY, USA}," +
     "url = {https://doi.org/10.1145/3143699.3143734}," +
     "doi = {10.1145/3143699.3143734}," +
-    "abstract = {The paper is devoted to processing parallel and comparable corpora by means of topic modelling. We focus our attention on Russian and English parallel and comparable texts. We use Latent Dirichlet Allocation (LDA) algorithm for building topic models of fiction texts, evaluation of compatibility for the original text and its translation(s), selection of possible translation equivalents.}," +
+    "abstract = {The paper is devoted to processing parallel and comparable corpora by means of topic modelling. " +
+    "We focus our attention on Russian and English parallel and comparable texts. We use Latent Dirichlet Allocation " +
+    "(LDA) algorithm for building topic models of fiction texts, evaluation of compatibility for the original text and " +
+    "its translation(s), selection of possible translation equivalents.}," +
     "booktitle = {Proceedings of the International Conference IMS-2017}," +
     "pages = {175–180}," +
     "numpages = {6}," +
