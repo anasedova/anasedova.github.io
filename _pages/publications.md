@@ -136,12 +136,12 @@ author_profile: true
         publisher={Association for Computational Linguistics},\n
         year={2021},\n
         url={https://doi.org/10.18653/v1/2021.repl4nlp-1.12},\n
-        doi={10.18653/v1/2021.repl4nlp-1.12}}";
+        doi={10.18653/v1/2021.repl4nlp-1.12} \n }";
 
     var topic_modeling_lemmata_citation = "@inproceedings{DBLP:conf/ims2/SedovaM17,
         author= {Anastasiya Sedova and Olga Mitrofanova},
         title= {Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions},
-        booktitle= {{XX} International Conference 'Internet and Modern Society': Computer
+        booktitle= {\{XX\} International Conference 'Internet and Modern Society': Computer
                           Linguistics and Computing Ontologies, {IMS} {CLCO} 2017, St. Petersburg,
                           Russia, June 21-23, 2017},
         pages={132--144},
@@ -156,7 +156,7 @@ author_profile: true
     var topic_modeling_lemmata_citation_text = "@inproceedings{DBLP:conf/ims2/SedovaM17, \n
         author= {Anastasiya Sedova and Olga Mitrofanova}, \n
         title= {Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions}, \n
-        booktitle= {{XX} International Conference 'Internet and Modern Society': Computer
+        booktitle= {\{XX\} International Conference 'Internet and Modern Society': Computer
                           Linguistics and Computing Ontologies, {IMS} {CLCO} 2017, St. Petersburg,
                           Russia, June 21-23, 2017}, \n
         pages={132--144}, \n
@@ -166,7 +166,7 @@ author_profile: true
         doi={10.17586/2541-9781-2017-1-132-144}, \n
         timestamp={Wed, 10 Mar 2021 10:49:24 +0100},\n
         biburl={https://dblp.org/rec/conf/ims2/SedovaM17.bib},\n
-        bibsource={dblp computer science bibliography, https://dblp.org}}";
+        bibsource={dblp computer science bibliography, https://dblp.org} \n }";
 
     var topic_modeling_comparable_citation = "@inproceedings{10.1145/3143699.3143734,
         author = {Mitrofanova, Olga and Sedova, Anastasiia},
@@ -199,8 +199,7 @@ author_profile: true
         numpages = {6}, \n
         keywords = {Topic Modelling, Fiction, Text Corpora, English, Russian, Parallel and Comparable Texts}, \n
         location = {Saint Petersburg, Russian Federation}, \n
-        series = {IMS2017}}";
-
+        series = {IMS2017} \n }";
 </script>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
