@@ -24,17 +24,16 @@ author_profile: true
   </script>
 
 <script type = "text/javascript">  
-    function copyCitation() {
-      var copyText = "some text to be copied";
-      navigator.clipboard.writeText(copyText);
-      alert("The citation is copied to the clipboard");
+    function copyCitation(citation) {
+      navigator.clipboard.writeText(citation);
+      alert("The citation is copied to the clipboard" + citation);
     }
 </script>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023 \
-[paper](https://arxiv.org/pdf/2306.04502) <button onclick="copyCitation()">copy citation in .bibtex</button>
+[paper](https://arxiv.org/pdf/2306.04502) <button onclick="copyCitation(AGRA citation)">copy citation in .bibtex</button>
 
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
 **Anastasiia Sedova**, Benjamin Roth \
