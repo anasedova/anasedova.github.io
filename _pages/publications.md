@@ -25,7 +25,7 @@ author_profile: true
 
 <script type = "text/javascript">  
     function copyCitation() {
-      var copyText = document.getElementById("myInput");
+      var copyText = "some text to be copied";
       navigator.clipboard.writeText(copyText.value);
       alert("Copied the text: " + copyText.value);
     }
