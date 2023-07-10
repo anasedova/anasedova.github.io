@@ -223,11 +223,9 @@ RepL4NLP @ ACL 2021 \
 
 - Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
 **Anastasiia Sedova**, Olga Mitrofanova \
-IMS 2017
-<a href="javascript:copyCitation(topic_modeling_lemmata_citation, topic_modeling_lemmata_citation_text)">.bibtex</a>
+IMS 2017 \
 
 - Topic Modelling in Parallel and Comparable Fiction Texts (the case study of English and Russian prose) \
 Olga Mitrofanova, **Anastasiia Sedova** \
 ITCL 2017 \
 [paper](https://dl.acm.org/doi/abs/10.1145/3143699.3143734)
-<a href="javascript:copyCitation(topic_modeling_comparable_citation, topic_modeling_comparable_citation_text)">.bibtex</a>
