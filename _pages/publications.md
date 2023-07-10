@@ -32,7 +32,7 @@ author_profile: true
       navigator.clipboard.writeText(citation);
       swal({
         text: 'The citation is copied to the clipboard: \n\n' + citation_text,
-        width: '800px'
+        width: '8000px'
     })
     }
 
