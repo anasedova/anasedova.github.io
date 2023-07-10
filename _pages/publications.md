@@ -26,7 +26,7 @@ author_profile: true
 <script type = "text/javascript">  
     function copyCitation(citation) {
       navigator.clipboard.writeText(citation);
-      alert("The citation is copied to the clipboard: \n" + citation);
+      alert("The citation is copied to the clipboard: \n\n" + citation);
     }
     var actc_citation = "@misc{sedova2023actc, \n
       title={ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion}, \n
@@ -53,10 +53,7 @@ author_profile: true
         publisher={Association for Computational Linguistics},\n
         year={2021},\n
         url={https://doi.org/10.18653/v1/2021.repl4nlp-1.12},\n
-        doi={10.18653/v1/2021.repl4nlp-1.12},\n
-        timestamp={Mon, 01 Aug 2022 16:27:54 +0200},\n
-        biburl={https://dblp.org/rec/conf/rep4nlp/SedovaSSR21.bib},\n
-        bibsource={dblp computer science bibliography, https://dblp.org}\n}";
+        doi={10.18653/v1/2021.repl4nlp-1.12}}";
 </script>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
@@ -73,7 +70,7 @@ ACL 2023 \
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
-ACL (RepL4NLP) 2021 \
+RepL4NLP @ ACL 2021 \
 [paper](https://arxiv.org/pdf/2104.11557)
 <a href="javascript:copyCitation(knodle_citation)">.bibtex</a>
 
