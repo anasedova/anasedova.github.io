@@ -23,7 +23,6 @@ author_profile: true
     }
   </script>
 
-
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 <script type = "text/javascript">
@@ -159,6 +158,12 @@ author_profile: true
         location = {Saint Petersburg, Russian Federation}, \n
         series = {IMS2017} \n }";
 </script>
+
+<style>
+    .swal-modal {
+      width: 3000px;
+    }
+</style>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
