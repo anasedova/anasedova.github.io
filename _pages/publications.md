@@ -5,10 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div id="popup" style="display: none;">{{ post.citation }}<br><button onclick="copyToClipboard()" class=".btn">Copy to Clipboard</button></div>
+<script type = "text/javascript">  
+    function showPopup() {
+      var popup = document.getElementById("popup");
+      popup.style.display = "block";
+    }
+
+    function copyToClipboard() {
+      var popupContent = document.getElementById("popup").innerText;
+      var textarea = document.createElement("textarea");
+      textarea.value = popupContent;
+      document.body.appendChild(textarea);
+      textarea.select();
+      document.execCommand("copy");
+      document.body.removeChild(textarea);
+    }
+  </script>
+
+<script type = "text/javascript">  
+    function copyCitation() {
+      var copyText = document.getElementById("myInput");
+      navigator.clipboard.writeText(copyText.value);
+      alert("Copied the text: " + copyText.value);
+    }
+</script>
+
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023 \
-[paper](https://arxiv.org/pdf/2306.04502)
+[paper](https://arxiv.org/pdf/2306.04502) <button onclick="copyCitation()">copy citation in .bibtex</button>
 
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
 **Anastasiia Sedova**, Benjamin Roth \
@@ -28,3 +54,4 @@ IMS 2017
 Olga Mitrofanova, **Anastasiia Sedova** \
 ITCL 2017 \
 [paper](https://dl.acm.org/doi/abs/10.1145/3143699.3143734)
+
