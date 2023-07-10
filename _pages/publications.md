@@ -24,11 +24,20 @@ author_profile: true
   </script>
 
 <script type = "text/javascript">  
-    function copyCitation(citation) {
+    function copyCitation(citation, citation_text) {
       navigator.clipboard.writeText(citation);
-      alert("The citation is copied to the clipboard: \n\n" + citation);
+      alert("The citation is copied to the clipboard: \n\n" + citation_text);
     }
-    var actc_citation = "@misc{sedova2023actc, \n
+
+    var actc_citation = "@misc{sedova2023actc,
+      title={ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion},
+      author={Anastasiia Sedova and Benjamin Roth},
+      year={2023},
+      eprint={2305.06395},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}}";
+
+    var actc_citation_text = "@misc{sedova2023actc, \n
       title={ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion}, \n
       author={Anastasiia Sedova and Benjamin Roth}, \n
       year={2023}, \n
@@ -36,15 +45,34 @@ author_profile: true
       archivePrefix={arXiv}, \n
       primaryClass={cs.LG}\n }";
 
-    var agra_citation = "@misc{sedova2023learning,\n
+    var agra_citation = "@misc{sedova2023learning,
+      title={Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal},
+      author={Anastasiia Sedova and Lena Zellinger and Benjamin Roth},
+      year={2023},
+      eprint={2306.04502},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}}";
+
+    var agra_citation_text = "@misc{sedova2023learning,\n
       title={Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal}, \n
       author={Anastasiia Sedova and Lena Zellinger and Benjamin Roth},\n
       year={2023},\n
       eprint={2306.04502},\n
       archivePrefix={arXiv},\n
-      primaryClass={cs.LG}\n}";
+      primaryClass={cs.LG} \n }";
 
     var knodle_citation = "@inproceedings{DBLP:conf/rep4nlp/SedovaSSR21,
+        author={Anastasiia Sedova and Andreas Stephan and Marina Speranskaya and Benjamin Roth},
+        title={Knodle: Modular Weakly Supervised Learning with PyTorch},
+        booktitle={Proceedings of the 6th Workshop on Representation Learning for NLP, RepL4NLP@ACL-IJCNLP 2021,
+                    Online, August 6, 2021},
+        pages={100--111},
+        publisher={Association for Computational Linguistics},
+        year={2021},
+        url={https://doi.org/10.18653/v1/2021.repl4nlp-1.12},
+        doi={10.18653/v1/2021.repl4nlp-1.12}}";
+
+    var knodle_citation_text = "@inproceedings{DBLP:conf/rep4nlp/SedovaSSR21,
         author={Anastasiia Sedova and Andreas Stephan and Marina Speranskaya and Benjamin Roth}, \n
         title={Knodle: Modular Weakly Supervised Learning with PyTorch},\n
         booktitle={Proceedings of the 6th Workshop on Representation Learning for NLP, RepL4NLP@ACL-IJCNLP 2021,
@@ -54,29 +82,60 @@ author_profile: true
         year={2021},\n
         url={https://doi.org/10.18653/v1/2021.repl4nlp-1.12},\n
         doi={10.18653/v1/2021.repl4nlp-1.12}}";
+
+    var topic_modeling_lemmata_citation = "@inproceedings{DBLP:conf/ims2/SedovaM17,
+        author= {Anastasiya Sedova and Olga Mitrofanova},
+        title= {Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions},
+        booktitle= {{XX} International Conference 'Internet and Modern Society': Computer
+                          Linguistics and Computing Ontologies, {IMS} {CLCO} 2017, St. Petersburg,
+                          Russia, June 21-23, 2017},
+        pages={132--144},
+        publisher={{ITMO} University},
+        year={2017},
+        url={https://doi.org/10.17586/2541-9781-2017-1-132-144},
+        doi={10.17586/2541-9781-2017-1-132-144},
+        timestamp={Wed, 10 Mar 2021 10:49:24 +0100},
+        biburl={https://dblp.org/rec/conf/ims2/SedovaM17.bib},
+        bibsource={dblp computer science bibliography, https://dblp.org}}";
+
+    var topic_modeling_lemmata_citation_text = "@inproceedings{DBLP:conf/ims2/SedovaM17, \n
+        author= {Anastasiya Sedova and Olga Mitrofanova}, \n
+        title= {Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions}, \n
+        booktitle= {{XX} International Conference 'Internet and Modern Society': Computer
+                          Linguistics and Computing Ontologies, {IMS} {CLCO} 2017, St. Petersburg,
+                          Russia, June 21-23, 2017}, \n
+        pages={132--144}, \n
+        publisher={{ITMO} University}, \n
+        year={2017}, \n
+        url={https://doi.org/10.17586/2541-9781-2017-1-132-144}, \n
+        doi={10.17586/2541-9781-2017-1-132-144}, \n
+        timestamp={Wed, 10 Mar 2021 10:49:24 +0100},\n
+        biburl={https://dblp.org/rec/conf/ims2/SedovaM17.bib},\n
+        bibsource={dblp computer science bibliography, https://dblp.org}}";
 </script>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023 \
 [paper](https://arxiv.org/pdf/2306.04502)
-<a href="javascript:copyCitation(agra_citation)">.bibtex</a>
+<a href="javascript:copyCitation(agra_citation, agra_citation_text)">.bibtex</a>
 
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
 **Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 \
 [paper](https://arxiv.org/pdf/2305.06395)
-<a href="javascript:copyCitation(actc_citation)">.bibtex</a>
+<a href="javascript:copyCitation(actc_citation, actc_citation_text)">.bibtex</a>
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
 RepL4NLP @ ACL 2021 \
 [paper](https://arxiv.org/pdf/2104.11557)
-<a href="javascript:copyCitation(knodle_citation)">.bibtex</a>
+<a href="javascript:copyCitation(knodle_citation, knodle_citation_text)">.bibtex</a>
 
 - Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
 **Anastasiia Sedova**, Olga Mitrofanova \
 IMS 2017
+<a href="javascript:copyCitation(topic_modeling_lemmata_citation, topic_modeling_lemmata_citation_text)">.bibtex</a>
 
 - Topic Modelling in Parallel and Comparable Fiction Texts (the case study of English and Russian prose)
 Olga Mitrofanova, **Anastasiia Sedova** \
