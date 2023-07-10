@@ -9,13 +9,14 @@ function copyCitation(citation, citation_text) {
 
 function addAbstract(abstract, paper_name) {
   swal({
-    title: paper_name + ': Abtract',
+    title: paper_name,
     text: abstract
   })
 
 }
 
-var actc_abstract = 'Here is ACTC abstract.';
+var actc_abstract = 'Self-supervised knowledge-graph completion (KGC) relies on estimating a scoring model over (entity, relation, entity)-tuples, for exam- ple, by embedding an initial knowledge graph. Prediction quality can be improved by calibrat- ing the scoring model, typically by adjusting the prediction thresholds using manually anno- tated examples. In this paper, we attempt for the first time cold-start calibration for KGC, where no annotated examples exist initially for calibration, and only a limited number of tuples can be selected for annotation.' +
+    'Our new method ACTC finds good per-relation thresholds efficiently based on a limited set of annotated tuples. Additionally to a few anno- tated tuples, ACTC also leverages unlabeled tuples by estimating their correctness with Lo- gistic Regression or Gaussian Process classi- fiers. We also experiment with different meth- ods for selecting candidate tuples for annota- tion: density-based and random selection. Ex- periments with five scoring models and an or- acle annotator show an improvement of 7% points when using ACTC in the challenging setting with an annotation budget of only 10 tu- ples, and an average improvement of 4% points over different budgets.';
 
 var actc_citation = '@inproceedings{sedova-roth-2023-actc,' +
     'title = "{ACTC}: Active Threshold Calibration for Cold-Start Knowledge Graph Completion",' +
@@ -39,7 +40,7 @@ var actc_citation_text = '@inproceedings{sedova-roth-2023-actc, \n ' +
     ' &emsp; url = "https://aclanthology.org/2023.acl-short.158",\n' +
     ' &emsp; pages = "1853--1863"}';
 
-var agra_abstract = "Here is AGRA abstract."
+var agra_abstract = "An accurate and substantial dataset is essential for training a reliable and well-performing model. However, even manually annotated datasets contain label errors, not to mention automatically labeled ones. Previous methods for label denoising have primarily focused on detecting outliers and their permanent removal – a process that is likely to over- or underfilter the dataset. In this work, we propose AGRA: a new method for learning with noisy labels by using Adaptive GRAdient-based outlier removal1. Instead of cleaning the dataset prior to model training, the dataset is dynamically adjusted during the training process. By compar- ing the aggregated gradient of a batch of samples and an individual exam- ple gradient, our method dynamically decides whether a corresponding example is helpful for the model at this point or is counter-productive and should be left out for the current update. Extensive evaluation on sev- eral datasets demonstrates AGRA’s effectiveness, while a comprehensive results analysis supports our initial hypothesis: permanent hard outlier removal is not always what model benefits the most from."
 
 var agra_citation = "@misc{sedova2023learning," +
     "title={Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal}," +
