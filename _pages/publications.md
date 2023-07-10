@@ -30,7 +30,10 @@ author_profile: true
 
     function copyCitation(citation, citation_text) {
       navigator.clipboard.writeText(citation);
-      swal("The citation is copied to the clipboard: \n\n" + citation_text);
+      swal({
+        title: "The citation is copied to the clipboard: \n\n + citation_text",
+        width: '800px'
+      })
     }
 
     var actc_citation = '@inproceedings{sedova-roth-2023-actc,
