@@ -24,8 +24,8 @@ author_profile: true
   </script>
 
 
-<script type = "text/javascript"
-    src="https://unpkg.com/sweetalert/dist/sweetalert.min.js">
+<script type = "text/javascript">
+    src="https://unpkg.com/sweetalert/dist/sweetalert.min.js";
 
     function copyCitation(citation, citation_text) {
       navigator.clipboard.writeText(citation);
