@@ -30,8 +30,7 @@ author_profile: true
     function copyCitation(citation, citation_text) {
       navigator.clipboard.writeText(citation);
       swal({
-        text: 'The citation is copied to the clipboard: \n\n' + citation_text,
-        width: '8000px'
+        text: 'The citation is copied to the clipboard: \n\n' + citation_text
     })
     }
 
@@ -161,7 +160,7 @@ author_profile: true
 
 <style>
     .swal-modal {
-      width: 300px;
+      width: 600px;
     }
 </style>
 
