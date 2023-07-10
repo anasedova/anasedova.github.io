@@ -16,7 +16,7 @@ ACL 2023 \
 [paper](https://arxiv.org/pdf/2305.06395)
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
-**Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \ 
+**Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
 RepL4NLP, ACL 2021 \
 [paper](https://arxiv.org/pdf/2104.11557)
 
