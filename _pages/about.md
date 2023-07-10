@@ -60,9 +60,6 @@ ACL 2023 (poster)
 - [Knodle: Modular Weakly Supervised Learning with PyTorch](https://arxiv.org/pdf/2104.11557) \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
 RepL4NLP-2021, ACL 2021 (poster)
-- Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
-**Anastasiia Sedova**, Olga Mitrofanova \
-IMS 2017 (oral)
 
 ## Thesis supervision
 
