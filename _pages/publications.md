@@ -30,12 +30,15 @@ author_profile: true
     .swal-modal {
       width: 800px;
     }
-    .align-center {
-      text-align: center;
-    }
     .swal-text {
-    font-size: 20px;
-    padding: 10px;
+        font-size: 20px;
+        padding: 30px;
+        line-height: 30px;
+        text-aligh: justify;
+    }
+    .swal-title{
+        font-size: 35px;
+        padding: 30px;
     }
 </style>
 
