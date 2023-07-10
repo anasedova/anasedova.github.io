@@ -30,6 +30,13 @@ author_profile: true
     .swal-modal {
       width: 800px;
     }
+    .align-center {
+      text-align: center;
+    }
+    .swal-text {
+    font-size: 20px;
+    padding: 10px;
+    }
 </style>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
