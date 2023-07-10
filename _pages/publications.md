@@ -28,23 +28,33 @@ author_profile: true
       navigator.clipboard.writeText(citation);
       alert("The citation is copied to the clipboard: \n" + citation);
     }
+
+    var actc_citation = "@misc{sedova2023actc,
+      title={ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion}, 
+      author={Anastasiia Sedova and Benjamin Roth},
+      year={2023},
+      eprint={2305.06395},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}}"
 </script>
 
 - Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023 \
 [paper](https://arxiv.org/pdf/2306.04502)
-<a href="javascript:copyCitation('AGRA citation')">bibtex citation</a>
+<a href="javascript:copyCitation(actc_citation)">.bibtex</a>
 
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
 **Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 \
-[paper](https://arxiv.org/pdf/2305.06395) [citation](http://anasedova.github.io/_publications/paper_1.html)
+[paper](https://arxiv.org/pdf/2305.06395)
+<a href="javascript:copyCitation('AGRA citation')">.bibtex</a>
 
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
 ACL (RepL4NLP) 2021 \
 [paper](https://arxiv.org/pdf/2104.11557)
+<a href="javascript:copyCitation('AGRA citation')">.bibtex</a>
 
 - Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
 **Anastasiia Sedova**, Olga Mitrofanova \
