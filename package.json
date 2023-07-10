@@ -20,6 +20,9 @@
   "engines": {
     "node": ">= 0.10.0"
   },
+  "dependencies": {
+    "sweetalert"
+  },
   "devDependencies": {
     "npm-run-all": "^1.7.0",
     "onchange": "^2.2.0",

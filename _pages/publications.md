@@ -25,57 +25,11 @@ author_profile: true
 
 
 <script type = "text/javascript"
-    src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
-
-     function functionAlert(msg, myYes)
-     {
-        var confirmBox = $("#confirm");
-        confirmBox.find(".message").text(msg);
-        confirmBox.find(".yes").unbind().click(function()
-        {
-           confirmBox.hide();
-        });
-        confirmBox.find(".yes").click(myYes);
-        confirmBox.show();
-     }
-</script>
-<style>
-     #confirm
-     {
-        display: none;
-        background-color: #F3F5F6;
-        color: #000000;
-        border: 1px solid #aaa;
-        position: fixed;
-        width: 300px;
-        height: 100px;
-        left: 50%;
-        margin-left: -100px;
-        padding: 10px 20px 10px;
-        box-sizing: border-box;
-        text-align: center;
-     }
-     #confirm button {
-        background-color: #FFFFFF;
-        display: inline-block;
-        border-radius: 12px;
-        border: 4px solid #aaa;
-        padding: 5px;
-        text-align: center;
-        width: 60px;
-        cursor: pointer;
-     }
-     #confirm .message
-     {
-        text-align: left;
-     }
-</style>
-
-<script type = "text/javascript">  
+    src="https://unpkg.com/sweetalert/dist/sweetalert.min.js">
 
     function copyCitation(citation, citation_text) {
       navigator.clipboard.writeText(citation);
-      functionAlert("The citation is copied to the clipboard: \n\n" + citation_text);
+      swal("The citation is copied to the clipboard: \n\n" + citation_text);
     }
 
     var actc_citation = '@inproceedings{sedova-roth-2023-actc,
@@ -223,8 +177,10 @@ RepL4NLP @ ACL 2021 \
 - Topic Modelling of Russian Texts based on Lemmata and Lexical Constructions \
 **Anastasiia Sedova**, Olga Mitrofanova \
 IMS 2017 \
+<a href="javascript:copyCitation(topic_modeling_lemmata_citation, topic_modeling_lemmata_citation_text)">.bibtex</a>
 
 - Topic Modelling in Parallel and Comparable Fiction Texts (the case study of English and Russian prose) \
 Olga Mitrofanova, **Anastasiia Sedova** \
 ITCL 2017 \
 [paper](https://dl.acm.org/doi/abs/10.1145/3143699.3143734)
+<a href="javascript:copyCitation(topic_modeling_comparable_citation, topic_modeling_comparable_citation_text)">.bibtex</a>
