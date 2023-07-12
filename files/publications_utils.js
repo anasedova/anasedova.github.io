@@ -77,33 +77,33 @@ var agra_citation_text = "@misc{sedova2023learning,\n" +
     " \t archivePrefix={arXiv},\n" +
     " \t primaryClass={cs.LG} \n }";
 
-var ulf_abstract = 'A way to overcome expensive and time-consuming manual data labeling is weak supervision - ' +
-    'automatic annotation of data samples via a predefined set of labeling functions (LFs), rule-based mechanisms that ' +
-    'generate potentially erroneous labels. In this work, we investigate noise reduction techniques for weak supervision' +
-    'based on the principle of k-fold cross-validation. In particular, we extend two frameworks for detecting the ' +
-    'erroneous samples in manually annotated data to the weakly supervised setting. Our methods profit from leveraging ' +
-    'the information about matching LFs and detect noisy samples more accurately. We also introduce a new algorithm ' +
-    'for denoising the weakly annotated data called ULF, that refines the allocation of LFs to classes by estimating ' +
-    'the reliable LFs-to-classes joint matrix. Evaluation on several datasets shows that ULF successfully improves ' +
-    'weakly supervised learning without using any manually labeled data.'
+var ulf_abstract = "A way to overcome expensive and time-consuming manual data labeling is weak supervision - " +
+    "automatic annotation of data samples via a predefined set of labeling functions (LFs), rule-based mechanisms that " +
+    "generate potentially erroneous labels. In this work, we investigate noise reduction techniques for weak supervision" +
+    "based on the principle of k-fold cross-validation. In particular, we extend two frameworks for detecting the " +
+    "erroneous samples in manually annotated data to the weakly supervised setting. Our methods profit from leveraging " +
+    "the information about matching LFs and detect noisy samples more accurately. We also introduce a new algorithm " +
+    "for denoising the weakly annotated data called ULF, that refines the allocation of LFs to classes by estimating " +
+    "the reliable LFs-to-classes joint matrix. Evaluation on several datasets shows that ULF successfully improves " +
+    "weakly supervised learning without using any manually labeled data."
 
-var ulf_citation = '@misc{sedova2022ulf,' +
-    '      title={ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision},' +
-    '      author={Anastasiia Sedova and Benjamin Roth},' +
-    '      year={2022},' +
-    '      eprint={2204.06863},' +
-    '      archivePrefix={arXiv},' +
-    '      primaryClass={cs.LG}' +
-    '}'
+var ulf_citation = "@misc{sedova2022ulf," +
+    "      title={ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision}," +
+    "      author={Anastasiia Sedova and Benjamin Roth}," +
+    "      year={2022}," +
+    "      eprint={2204.06863}," +
+    "      archivePrefix={arXiv}," +
+    "      primaryClass={cs.LG}" +
+    "}"
 
-var ulf_citation_text = '@misc{sedova2022ulf,\n' +
-    '      title={ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision}, \n' +
-    '      author={Anastasiia Sedova and Benjamin Roth},\n' +
-    '      year={2022},\n' +
-    '      eprint={2204.06863},\n' +
-    '      archivePrefix={arXiv},\n' +
-    '      primaryClass={cs.LG}\n' +
-    '}'
+var ulf_citation_text = "@misc{sedova2022ulf,\n" +
+    "      title={ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision}, \n" +
+    "      author={Anastasiia Sedova and Benjamin Roth},\n" +
+    "      year={2022},\n" +
+    "      eprint={2204.06863},\n" +
+    "      archivePrefix={arXiv},\n" +
+    "      primaryClass={cs.LG}\n" +
+    "}"
 
 var knodle_abstract = "Strategies for improving the training and prediction quality of weakly supervised " +
     "machine learning models vary in how much they are tailored to a specific task or integrated with a specific model " +

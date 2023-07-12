@@ -44,19 +44,19 @@ author_profile: true
     }
 </style>
 
-- Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
-**Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
-ECML PKDD 2023 \
-[paper](https://arxiv.org/pdf/2306.04502)
-<a href="javascript:addAbstract(agra_abstract, 'Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal')">abstract</a>
-<a href="javascript:copyCitation(agra_citation, agra_citation_text)">.bibtex</a>
-
 - ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion \
 **Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 \
 [paper](https://aclanthology.org/2023.acl-short.158.pdf)
 <a href="javascript:addAbstract(actc_abstract, 'ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion')">abstract</a>
 <a href="javascript:copyCitation(actc_citation, actc_citation_text)">.bibtex</a>
+
+- Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal \
+**Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
+ECML PKDD 2023 \
+[paper](https://arxiv.org/pdf/2306.04502)
+<a href="javascript:addAbstract(agra_abstract, 'Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal')">abstract</a>
+<a href="javascript:copyCitation(agra_citation, agra_citation_text)">.bibtex</a>
 
 - ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision \
 **Anastasiia Sedova**, Benjamin Roth \
