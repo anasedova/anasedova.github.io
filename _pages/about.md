@@ -27,7 +27,7 @@ My research interests are weak supervision, knowledge graphs, and knowledge-supe
 
 **January 2022**: I attended the [ALPS2022 winter school](https://lig-alps.imag.fr) on natural language processing organized by the University of Grenoble Alpes and Naver Labs Europe.
 
-**November 2021**: I presented the Knodle framework at the 3d Workshop of [European Language Resource Coordination (ELRC)](https://www.lr-coordination.eu).  
+**November 2021**: I presented our Knodle framework at the 3d Workshop of [European Language Resource Coordination (ELRC)](https://www.lr-coordination.eu).  
 
 **August 2021**: I presented our paper _"Knodle: Modular Weakly Supervised Learning with PyTorch"_ online at [ACL 2021](https://2021.aclweb.org/)!
 

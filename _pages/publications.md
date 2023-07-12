@@ -58,6 +58,13 @@ ACL 2023 \
 <a href="javascript:addAbstract(actc_abstract, 'ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion')">abstract</a>
 <a href="javascript:copyCitation(actc_citation, actc_citation_text)">.bibtex</a>
 
+- ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision \
+**Anastasiia Sedova**, Benjamin Roth \
+ArXiv preprint 2022 \
+[paper](https://arxiv.org/pdf/2204.06863)
+<a href="javascript:addAbstract(ulf_abstract, 'ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision')">abstract</a>
+<a href="javascript:copyCitation(ulf_citation, ulf_citation_text)">.bibtex</a>
+
 - Knodle: Modular Weakly Supervised Learning with PyTorch \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
 RepL4NLP @ ACL 2021 \
