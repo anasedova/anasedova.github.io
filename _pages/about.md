@@ -21,7 +21,7 @@ My research interests are weak supervision, knowledge graphs, and knowledge-supe
 
 **June 2023**: Our paper _Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal_ was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (poster) Check it out [here](https://arxiv.org/abs/2306.04502). 
 
-**May 2023**: Our paper _ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion_ was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check it out [here](https://arxiv.org/abs/2305.06395).
+**May 2023**: Our paper _ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion_ was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check it out [here](https://aclanthology.org/2023.acl-short.158.pdf).
 
 **January 2023**: I gave a talk at the [Technical University of Vienna](https://nlp.ec.tuwien.ac.at) on the potential application and future perspectives of weak supervision.
 
@@ -38,7 +38,7 @@ Acceptance rate: ~5%.
 **July 2021**: This summer I'm taking part in [Google Summer of Code](https://summerofcode.withgoogle.com/). I will join [DeepPavlov](https://github.com/anasedova/DeepPavlov) team to work on relation extraction in their end-to-end chatbot. 
 Upd: check out [my Medium post](https://medium.com/deeppavlov/relation-extraction-for-deeppavlov-library-d1f7b57365b3)!
 
-**July 2021**: I gave a talk at [Munich NLP Meetup](https://www.meetup.com/de-DE/natural-language-processing-understanding-nlp-nlu/) introducing our freshly-baked Knodle!
+**July 2021**: I gave a talk at [Munich NLP Meetup](https://www.meetup.com/ru-RU/natural-language-processing-understanding-nlp-nlu/events/278751273/) introducing our freshly-baked Knodle!
 
 **June 2021**: Our paper _"Knodle: Modular Weakly Supervised Learning with PyTorch"_ was accepted to the [Workshop on Representation Learning for NLP (RepL4NLP)](https://aclanthology.org/2021.repl4nlp-1.0/) hosted at ACL 2021! (poster) Check it out [here](https://arxiv.org/abs/2104.11557). 
 
