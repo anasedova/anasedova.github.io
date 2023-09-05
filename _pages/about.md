@@ -53,7 +53,7 @@ I am also happy to serve as a reviewer at the international conferences, such as
 
 - [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
-ECML PKDD 2023 (poster)
+ECML PKDD 2023 (oral)
 - [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://arxiv.org/pdf/2305.06395) \
 **Anastasiia Sedova**, Benjamin Roth \
 ACL 2023 (poster)
