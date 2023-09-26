@@ -19,7 +19,9 @@ My research interests are weak supervision, knowledge graphs, and knowledge-supe
 
 ## News
 
-**June 2023**: Our paper _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_ was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral) Check it out [here](https://arxiv.org/abs/2306.04502). 
+**September 2023**: I gave an oral presentation at ECML PKDD 2023 in Turin presenting our paper _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_. 
+
+**June 2023**: Our paper _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_ was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check it out [here](https://arxiv.org/abs/2306.04502). 
 
 **May 2023**: Our paper _"ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion"_ was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check it out [here](https://aclanthology.org/2023.acl-short.158.pdf).
 
@@ -53,19 +55,19 @@ I am also happy to serve as a reviewer at the international conferences, such as
 
 - [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
-ECML PKDD 2023 (oral)
+ECML PKDD 2023
 - [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://arxiv.org/pdf/2305.06395) \
 **Anastasiia Sedova**, Benjamin Roth \
-ACL 2023 (poster)
+ACL 2023
 - [Knodle: Modular Weakly Supervised Learning with PyTorch](https://arxiv.org/pdf/2104.11557) \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
-RepL4NLP-2021, ACL 2021 (poster)
+RepL4NLP-2021, ACL 2021
 
 ## Thesis supervision
 
-- Benedikt Köhler (11/2022-) _Political Leaning Prediction of News Paper Articles_, MSc thesis
-- Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, MSc thesis
-- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, MSc thesis
+- Benedikt Köhler (11/2022-) _Political Leaning Prediction of News Paper Articles_, MSc thesis.
+- Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, MSc thesis.
+- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, MSc thesis.
 
 
 
