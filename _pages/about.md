@@ -25,7 +25,7 @@ My research interests are weak supervision, knowledge graphs, and knowledge-supe
 
 **June 2023**: Our paper _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_ was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check out [paper](https://arxiv.org/abs/2306.04502) and [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf). 
 
-**May 2023**: Our paper _"ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion"_ was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check it out [here](https://aclanthology.org/2023.acl-short.158.pdf).
+**May 2023**: Our paper _"ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion"_ was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check out [paper](https://aclanthology.org/2023.acl-short.158.pdf) and [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
 
 **January 2023**: I gave a talk at the [Technical University of Vienna](https://nlp.ec.tuwien.ac.at) on the potential application and future perspectives of weak supervision.
 
