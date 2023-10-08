@@ -19,6 +19,8 @@ My research interests are weak supervision, knowledge graphs, and knowledge-supe
 
 ## News
 
+**October 2023** : Our paper _"ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision"_ was accepted to [EMNLP 2023](https://2023.emnlp.org/)! Check it out [here](https://arxiv.org/abs/2204.06863).
+
 **September 2023**: I gave an oral presentation at ECML PKDD 2023 in Turin presenting our paper _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_. 
 
 **June 2023**: Our paper _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_ was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check it out [here](https://arxiv.org/abs/2306.04502). 
