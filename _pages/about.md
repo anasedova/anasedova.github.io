@@ -23,7 +23,7 @@ My research interests are weak supervision, knowledge graphs, and knowledge-supe
 
 **September 2023** : Together with my colleagues, I gave an invited tutorial on weak supervision at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen.
 
-**September 2023**: I gave an oral presentation at ECML PKDD 2023 in Turin presenting our paper _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_. 
+**September 2023**: I gave an oral presentation at [ECML PKDD 2023](https://2023.ecmlpkdd.org) in Turin presenting our [paper](https://arxiv.org/abs/2306.04502) _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_. 
 
 **June 2023**: Our paper _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_ was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check out [paper](https://arxiv.org/abs/2306.04502) and [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf). 
 
