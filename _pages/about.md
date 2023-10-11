@@ -57,6 +57,9 @@ I am also happy to serve as a reviewer at the international conferences, such as
 
 ## Selected Publications
 
+- [ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision](https://arxiv.org/pdf/2204.06863) \
+**Anastasiia Sedova**, Benjamin Roth \
+EMNLP 2023
 - [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) \
 **Anastasiia Sedova**, Lena Zellinger, Benjamin Roth \
 ECML PKDD 2023
