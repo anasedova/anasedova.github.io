@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year PhD student in the [Research Group Data Mining and Machine Learning](https://dm.cs.univie.ac.at) at 
+I am a fourth-year PhD student in the [Research Group Data Mining and Machine Learning](https://dm.cs.univie.ac.at) at 
 the University of Vienna, where I am advised by [Ben Roth](https://www.benjaminroth.net), 
 working on machine learning and natural language processing. 
 Previously, I completed my M.Sc. degrees in Computational Linguistics and Computer Science in the 
