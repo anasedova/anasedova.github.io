@@ -21,7 +21,7 @@ My research interests are weak supervision, knowledge graphs, and knowledge-supe
 
 **October 2023** : Our paper _"ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision"_ was accepted to [EMNLP 2023](https://2023.emnlp.org/)! Check it out [here](https://arxiv.org/abs/2204.06863).
 
-**September 2023** : I gave an invited tutorial on weak supervision at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
+**September 2023** : I gave an invited tutorial on weak supervision at PhD Seminar “Machine Learning with Limited Data” at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
 
 **September 2023**: I gave an oral presentation at [ECML PKDD 2023](https://2023.ecmlpkdd.org) in Turin presenting our [paper](https://arxiv.org/abs/2306.04502) _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_. 
 
