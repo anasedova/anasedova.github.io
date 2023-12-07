@@ -15,7 +15,7 @@ Previously, I completed my M.Sc. degrees in Computational Linguistics and Comput
 [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) 
 at [LMU Munich](https://www.lmu.de/en/index.html) with a full scholarship from the 
 [German Academic Exchange Service](https://www.daad.de/en/). 
-My research interests are automatic information extraction, low-resource learning, and knowledge graphs.
+My research interests are low-resource learning, multi-modal learning, and model explainability and variability.
 
 ## News
 
