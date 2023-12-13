@@ -19,7 +19,7 @@ My research interests are low-resource learning, multi-modal learning, and model
 
 ## News
 
-**December 2023**: I will be in person at EMNLP 2023 in Singapore - let's catch up! Also, I will be presenting our ULF paper at the poster session Sunday morning (9am), East Foyer. 
+**December 2023**: I will be in person at EMNLP 2023 in Singapore - let's catch up! Also, I will be presenting our ULF paper at the poster session Sunday morning, 9am, East Foyer. 
 
 **October 2023** : Our paper _"ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision"_ was accepted to [EMNLP 2023](https://2023.emnlp.org/)! Check it out [here](https://arxiv.org/abs/2204.06863).
 
