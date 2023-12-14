@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 <div id="popup" style="display: none;">{{ post.citation }}<br><button onclick="copyToClipboard()" class=".btn">Copy to Clipboard</button></div>
 <script type = "text/javascript">  
     function showPopup() {
