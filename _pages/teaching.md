@@ -16,7 +16,7 @@ author_profile: true
 **Summer Term 2023**
 - [Data Analysis Project (MSc)](https://ufind.univie.ac.at/en/course.html?lv=053631&semester=2023S)
     - _Recent Approaches to authorship attribution_
-    - _Authorship attribution dataset creation based on the Reddit threads
+    - _Authorship attribution dataset creation based on the Reddit threads_
     - _Counterfactual Reasoning with Knowledge Graphs & Box Embeddings_
     - _Prompt-based temporal relation extraction_
 
