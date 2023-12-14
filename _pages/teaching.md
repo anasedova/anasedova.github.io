@@ -24,8 +24,8 @@ author_profile: true
 **Winter Term 2022/2023**
 - [Computational Linguistics (MSc)](https://ufind.univie.ac.at/en/course.html?lv=136040&semester=2022W)
 - [Data Analysis Project (MSc)](https://ufind.univie.ac.at/en/course.html?lv=053631&semester=2022W)
-  - _Weak Supervision in Medical Domain_
-  - _Incomplete Schema Clustering for the relation extraction_
+  - _Weakly Supervised Learning in Medical Domain_using Medical Images and Clinical Notes
+  - _Incomplete Schema Clustering for the Relation Extraction_
 
 
 **Summer Term 2022**
@@ -38,4 +38,4 @@ author_profile: true
 - [Data Analysis Project (MSc)](https://ufind.univie.ac.at/en/course.html?lv=053631&semester=2021W)
   - _Extraction of Structured Information using Weak Supervision_
   - _Wiener Diarium: Finding Toponyms in Obituaries_
-  - _Automatic identifying civilians killed by police_
+  - _Automatic Identifying Civilians Killed by Police_
