@@ -10,7 +10,7 @@ author_profile: true
 - [Introduction to programming (Bsc)](https://ufind.univie.ac.at/en/course.html?lv=051914&semester=2023W)
 - [Data Analysis Project (MSc)](https://ufind.univie.ac.at/en/course.html?lv=053631&semester=2023W)
   - _A blessing or a curse? Analysis of scholarly citations_
-  - todo
+  - _Cross-metric evaluation of fairness optimization_
 
 
 **Summer Term 2023**
