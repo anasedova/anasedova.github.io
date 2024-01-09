@@ -18,12 +18,13 @@ at [LMU Munich](https://www.lmu.de/en/index.html) with a full scholarship from t
 My research interests are low-resource learning, multi-modal learning, and model explainability and variability.
 
 ## News
+**January 2023**: I will be visiting [Hinrich Schütze's Lab](https://cisnlp.github.io) at LMU Munich for one month in February 2024!
 
 **December 2023**: I will be in person at EMNLP 2023 in Singapore - let's catch up! Also, I will be presenting our ULF paper at the poster session Sunday morning, 9am, East Foyer. 
 
 **October 2023** : Our paper _"ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision"_ was accepted to [EMNLP 2023](https://2023.emnlp.org/)! Check it out [here](https://arxiv.org/abs/2204.06863).
 
-**September 2023** : I gave an invited tutorial on weak supervision at PhD Seminar “Machine Learning with Limited Data” at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
+**September 2023** : Invited tutorial on weak supervision at PhD Seminar “Machine Learning with Limited Data” at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
 
 **September 2023**: I gave an oral presentation at [ECML PKDD 2023](https://2023.ecmlpkdd.org) in Turin presenting our [paper](https://arxiv.org/abs/2306.04502) _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_. 
 
@@ -31,11 +32,11 @@ My research interests are low-resource learning, multi-modal learning, and model
 
 **May 2023**: Our paper _"ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion"_ was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check out [paper](https://aclanthology.org/2023.acl-short.158.pdf) and [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
 
-**January 2023**: I gave a talk at the [Technical University of Vienna](https://nlp.ec.tuwien.ac.at) on the potential application and future perspectives of weak supervision.
+**January 2023**: Invited talk at the [Technical University of Vienna](https://nlp.ec.tuwien.ac.at) on the potential application and future perspectives of weak supervision.
 
 **January 2022**: I attended the [ALPS2022 winter school](https://lig-alps.imag.fr) on natural language processing organized by the University of Grenoble Alpes and Naver Labs Europe.
 
-**November 2021**: I presented our Knodle framework at the 3d Workshop of [European Language Resource Coordination (ELRC)](https://www.lr-coordination.eu).  
+**November 2021**: Knodle framework presentation at the 3d Workshop of [European Language Resource Coordination (ELRC)](https://www.lr-coordination.eu).  
 
 **August 2021**: I presented our paper _"Knodle: Modular Weakly Supervised Learning with PyTorch"_ online at [ACL 2021](https://2021.aclweb.org/)!
 
@@ -46,11 +47,11 @@ Acceptance rate: ~5%.
 **July 2021**: This summer I'm taking part in [Google Summer of Code](https://summerofcode.withgoogle.com/). I will join [DeepPavlov](https://github.com/anasedova/DeepPavlov) team to work on relation extraction in their end-to-end chatbot. 
 Upd: check out [my Medium post](https://medium.com/deeppavlov/relation-extraction-for-deeppavlov-library-d1f7b57365b3)!
 
-**July 2021**: I gave a talk at [Munich NLP Meetup](https://www.meetup.com/de-DE/natural-language-processing-understanding-nlp-nlu/) introducing our freshly-baked Knodle!
+**July 2021**: Invited talk at [Munich NLP Meetup](https://www.meetup.com/de-DE/natural-language-processing-understanding-nlp-nlu/) introducing our freshly-baked Knodle!
 
 **June 2021**: Our paper _"Knodle: Modular Weakly Supervised Learning with PyTorch"_ was accepted to the [Workshop on Representation Learning for NLP (RepL4NLP)](https://aclanthology.org/2021.repl4nlp-1.0/) hosted at ACL 2021! (poster) Check it out [here](https://arxiv.org/abs/2104.11557). 
 
-**May 2021**: I gave a talk at the [Bosch NLP and Semantic Reasoning Lab](https://www.bosch-ai.com/research/fields-of-expertise/natural-language-processing/) presenting [Knodle](www.knodle.cc).
+**May 2021**: Invited talk at the [Bosch NLP and Semantic Reasoning Lab](https://www.bosch-ai.com/research/fields-of-expertise/natural-language-processing/) presenting [Knodle](www.knodle.cc).
 
 **April 2021**: [Knodle](www.knodle.cc) first release!! Check out the [source code](https://github.com/knodle/knodle). 
 
