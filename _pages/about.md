@@ -18,7 +18,7 @@ at [LMU Munich](https://www.lmu.de/en/index.html) with a full scholarship from t
 My research interests are low-resource learning, multi-modal learning, and model explainability and variability.
 
 ## News
-**January 2023**: I will be visiting [Hinrich Schütze's Lab](https://cisnlp.github.io) at LMU Munich for one month in February 2024!
+**January 2024**: I will be visiting [Hinrich Schütze's Lab](https://cisnlp.github.io) at LMU Munich for one month in February 2024!
 
 **December 2023**: I will be in person at EMNLP 2023 in Singapore - let's catch up! Also, I will be presenting our ULF paper at the poster session Sunday morning, 9am, East Foyer. 
 
