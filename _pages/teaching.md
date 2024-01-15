@@ -7,7 +7,7 @@ author_profile: true
 
 **Winter Term 2023/2024**
 - [Capabilities and Limitations of language-based AI models (Msc)](https://ufind.univie.ac.at/en/course.html?lv=136041&semester=2023W)
-- [Introduction to programming (Bsc)](https://ufind.univie.ac.at/en/course.html?lv=051914&semester=2023W)
+- [Introduction to programming (BSc)](https://ufind.univie.ac.at/en/course.html?lv=051914&semester=2023W)
 - [Data Analysis Project (MSc)](https://ufind.univie.ac.at/en/course.html?lv=053631&semester=2023W)
   - _A blessing or a curse? Analysis of scholarly citations_
   - _Cross-metric evaluation of fairness optimization_
