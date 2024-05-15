@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**Summer Term 2024**
+- [Data Analysis Project (MSc)](https://ufind.univie.ac.at/en/course.html?lv=053631&semester=2023W)
+  - _Multilingual Parser for Under-resourced Languages_
+  - _Language Similarity by Multilingual Parsing Performance_
+- [Introduction to programming (BSc)](https://ufind.univie.ac.at/en/course.html?lv=051914&semester=2023W)
+
 **Winter Term 2023/2024**
 - [Capabilities and Limitations of language-based AI models (Msc)](https://ufind.univie.ac.at/en/course.html?lv=136041&semester=2023W)
 - [Introduction to programming (BSc)](https://ufind.univie.ac.at/en/course.html?lv=051914&semester=2023W)
