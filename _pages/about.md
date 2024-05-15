@@ -19,7 +19,7 @@ My research interests are low-resource learning, multi-modal learning, and model
 
 ## News
 
-** May 2024**: I will be at [ICLR'24](https://iclr.cc). Let's catch up! 
+**May 2024**: I will be at [ICLR'24](https://iclr.cc). Let's catch up! 
 
 **April 2024**: I gave an invited tutorial at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html) at LMU Munich. 
 
