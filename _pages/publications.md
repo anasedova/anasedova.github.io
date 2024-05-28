@@ -45,6 +45,11 @@ author_profile: true
     }
 </style>
 
+- Exploring prompts to elicit memorization in masked language model-based named entity recognition  \
+Yuxi Xia, **Anastasiia Sedova**, Pedro Henrique Luz de Araujo, Vasiliki Kougia, Lisa Nußbaumer, Benjamin Roth \
+ArXiv preprint \
+[paper](https://arxiv.org/pdf/2405.03004)
+
 - ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision \
 **Anastasiia Sedova**, Benjamin Roth \
 EMNLP 2023 \
