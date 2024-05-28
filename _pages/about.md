@@ -21,11 +21,11 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **May 2024**: I will be at [ICLR'24](https://iclr.cc). Let's catch up! 
 
-**April 2024**: I gave an invited tutorial at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html) at LMU Munich. 
+**April 2024**: Invited tutorial at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html) at LMU Munich. 
 
-**January 2024**: I will be visiting [Hinrich Schütze's Lab](https://cisnlp.github.io) at LMU Munich for one month in February 2024!
+**January 2024**: One month research stay at [Hinrich Schütze's Lab](https://cisnlp.github.io) at LMU Munich.
 
-**December 2023**: I will be in person at EMNLP 2023 in Singapore! Also, I will be presenting our ULF paper at the poster session Sunday morning, 9am, East Foyer. 
+**December 2023**: I presented our ULF paper at EMNLP 2023 in Singapore. 
 
 **October 2023** : Our paper _"ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision"_ was accepted to [EMNLP 2023](https://2023.emnlp.org/)! Check it out [here](https://arxiv.org/abs/2204.06863).
 
