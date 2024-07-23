@@ -19,6 +19,13 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 ## News
 
+**July 2024**: I will be at [ICML'24](https://icml.cc). [Ping me](https://twitter.com/anasedova) to grad a coffee!
+
+**June 2024**: New preprints:
+
+- [Exploring prompts to elicit memorization in masked language model-based named entity recognition](https://arxiv.org/abs/2405.03004)
+- [Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://arxiv.org/abs/2406.11486) - accepted at BioNLP @ACL 2024!
+
 **May 2024**: I will be at [ICLR'24](https://iclr.cc). Let's catch up! 
 
 **April 2024**: Invited tutorial at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html) at LMU Munich. 
