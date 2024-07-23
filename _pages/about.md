@@ -24,7 +24,7 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 **June 2024**: New preprints:
 
 - [Exploring prompts to elicit memorization in masked language model-based named entity recognition](https://arxiv.org/abs/2405.03004)
-- [Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://arxiv.org/abs/2406.11486) - accepted at BioNLP @ACL 2024!
+- [Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://arxiv.org/abs/2406.11486) - accepted at BioNLP @ACL 2024.
 
 **May 2024**: I will be at [ICLR'24](https://iclr.cc). Let's catch up! 
 
@@ -89,7 +89,7 @@ RepL4NLP-2021, ACL 2021
 
 - Benedikt Köhler (11/2022-) _Political Leaning Prediction of News Paper Articles_, MSc thesis.
 - Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, MSc thesis.
-- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, MSc thesis.
+- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, MSc thesis (_cum laude_, top-3 students in 2022)
 
 
 
