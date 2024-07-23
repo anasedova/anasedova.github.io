@@ -40,7 +40,7 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **September 2023**: I gave an oral presentation of our paper "Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal" at ECML PKDD 2023 in Turin. 
 
-**June 2023**: [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check out the [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf) as well. 
+**June 2023**: [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check out the [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf). 
 
 **May 2023**: [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://aclanthology.org/2023.acl-short.158.pdf) was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check out the [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
 
