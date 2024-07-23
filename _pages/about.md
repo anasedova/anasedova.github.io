@@ -30,7 +30,7 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **April 2024**: Invited tutorial at the [Department of Statistics](https://www.en.statistik.uni-muenchen.de/index.html) at LMU Munich. 
 
-**January 2024**: One month research stay at [Hinrich Schütze's Lab](https://cisnlp.github.io) at LMU Munich.
+**February 2024**: One month research stay at [Hinrich Schütze's Lab](https://cisnlp.github.io) at LMU Munich.
 
 **December 2023**: I presented our ULF paper at EMNLP 2023 in Singapore. 
 
@@ -38,9 +38,9 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **September 2023** : Invited tutorial on weak supervision at PhD Seminar “Machine Learning with Limited Data” at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
 
-**September 2023**: I gave an oral presentation at [ECML PKDD 2023](https://2023.ecmlpkdd.org) in Turin presenting our [paper](https://arxiv.org/abs/2306.04502) _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_. 
+**September 2023**: I gave an oral presentation at [ECML PKDD 2023](https://2023.ecmlpkdd.org) in Turin presenting our paper "Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal". 
 
-**June 2023**: Our paper [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check out the [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf). 
+**June 2023**: Our paper [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check out the [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf) as well. 
 
 **May 2023**: Our paper [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://aclanthology.org/2023.acl-short.158.pdf) was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check out the [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
 
