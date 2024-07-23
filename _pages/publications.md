@@ -45,6 +45,11 @@ author_profile: true
     }
 </style>
 
+- _Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency_ \
+Vasiliki Kougia, **Anastasiia Sedova**, Andreas Stephan, Benjamin Roth \
+Accepted to BioNLP @ACL 2024 \
+[paper](https://arxiv.org/abs/2406.11486)
+
 - _Exploring prompts to elicit memorization in masked language model-based named entity recognition_  \
 Yuxi Xia, **Anastasiia Sedova**, Pedro Henrique Luz de Araujo, Vasiliki Kougia, Lisa Nußbaumer, Benjamin Roth \
 ArXiv preprint \
