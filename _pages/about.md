@@ -34,15 +34,15 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **December 2023**: I presented our ULF paper at EMNLP 2023 in Singapore. 
 
-**October 2023** : Our paper _"ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision"_ was accepted to [EMNLP 2023](https://2023.emnlp.org/)! Check it out [here](https://arxiv.org/abs/2204.06863).
+**October 2023** : Our paper [ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision](https://arxiv.org/pdf/2204.06863) is accepted to [EMNLP 2023](https://2023.emnlp.org/)! Check it out [here](https://arxiv.org/abs/2204.06863).
 
 **September 2023** : Invited tutorial on weak supervision at PhD Seminar “Machine Learning with Limited Data” at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
 
 **September 2023**: I gave an oral presentation at [ECML PKDD 2023](https://2023.ecmlpkdd.org) in Turin presenting our [paper](https://arxiv.org/abs/2306.04502) _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_. 
 
-**June 2023**: Our paper _"Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal"_ was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check out [paper](https://arxiv.org/abs/2306.04502) and [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf). 
+**June 2023**: Our paper [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) is accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check out [paper](https://arxiv.org/abs/2306.04502) and [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf). 
 
-**May 2023**: Our paper _"ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion"_ was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check out [paper](https://aclanthology.org/2023.acl-short.158.pdf) and [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
+**May 2023**: Our paper [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://aclanthology.org/2023.acl-short.158.pdf) is accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check out [paper](https://aclanthology.org/2023.acl-short.158.pdf) and [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
 
 **January 2023**: Invited talk at the [Technical University of Vienna](https://nlp.ec.tuwien.ac.at) on the potential application and future perspectives of weak supervision.
 
@@ -61,7 +61,7 @@ Upd: check out [my Medium post](https://medium.com/deeppavlov/relation-extractio
 
 **July 2021**: Invited talk at [Munich NLP Meetup](https://www.meetup.com/de-DE/natural-language-processing-understanding-nlp-nlu/) introducing our freshly-baked Knodle!
 
-**June 2021**: Our paper _"Knodle: Modular Weakly Supervised Learning with PyTorch"_ was accepted to the [Workshop on Representation Learning for NLP (RepL4NLP)](https://aclanthology.org/2021.repl4nlp-1.0/) hosted at ACL 2021! (poster) Check it out [here](https://arxiv.org/abs/2104.11557). 
+**June 2021**: Our paper [Knodle: Modular Weakly Supervised Learning with PyTorch](https://aclanthology.org/2021.repl4nlp-1.12.pdf) was accepted to the [Workshop on Representation Learning for NLP (RepL4NLP)](https://aclanthology.org/2021.repl4nlp-1.0/) hosted at ACL 2021! (poster) Check it out [here](https://arxiv.org/abs/2104.11557). 
 
 **May 2021**: Invited talk at the [Bosch NLP and Semantic Reasoning Lab](https://www.bosch-ai.com/research/fields-of-expertise/natural-language-processing/) presenting [Knodle](www.knodle.cc).
 
