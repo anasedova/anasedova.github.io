@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Summer Term 2024**
+- [Practical Machine Learning for Natural Language Processing (MSc)](https://ufind.univie.ac.at/en/course.html?lv=136040&semester=2024S)
 - [Data Analysis Project (MSc)](https://ufind.univie.ac.at/en/course.html?lv=053631&semester=2023W)
   - _Multilingual Parser for Under-resourced Languages_
   - _Language Similarity by Multilingual Parsing Performance_
