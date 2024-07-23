@@ -24,7 +24,7 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 **May 2024**: New preprints:
 
 - [Exploring prompts to elicit memorization in masked language model-based named entity recognition](https://arxiv.org/abs/2405.03004)
-- [Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://arxiv.org/abs/2406.11486) - accepted at BioNLP @ACL 2024.
+- [Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://arxiv.org/abs/2406.11486) - accepted to BioNLP Workshop hosted at ACL 2024.
 
 **May 2024**: I will be at [ICLR'24](https://iclr.cc). Let's catch up! 
 
