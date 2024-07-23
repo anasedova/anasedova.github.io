@@ -50,7 +50,7 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **November 2021**: Knodle framework presentation at the 3d Workshop of [European Language Resource Coordination (ELRC)](https://www.lr-coordination.eu).  
 
-**August 2021**: I have an oral presentation of our Knodle paper online at [ACL 2021](https://2021.aclweb.org/)!
+**August 2021**: I gave an oral presentation of our Knodle paper online at [ACL 2021](https://2021.aclweb.org/)!
 
 **August 2021**: I attended the [OxML'21 summer school](https://www.oxfordml.school/oxml2021) organized by AI for Global Goals in partnership with CIFAR and the University of Oxford.
 The program included talks by Yoshua Bengio, Sebastian Ruder, Michael Bronstein and others. 
