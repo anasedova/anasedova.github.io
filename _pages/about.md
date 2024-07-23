@@ -67,7 +67,7 @@ Upd: check out [my Medium post](https://medium.com/deeppavlov/relation-extractio
 
 **April 2021**: [Knodle](www.knodle.cc) first release!! Check out the [source code](https://github.com/knodle/knodle). 
 
-I am also honored to serve as a reviewer at multiple international conferences, such as ACL, EMNLP, ECML, ILCR, and others.
+I am also honored to serve as a reviewer at multiple international conferences, such as ACL, EMNLP, NAACL, EACL, ECML, ILCR, IEEE PAMI, and others.
 
 
 ## Selected Publications
