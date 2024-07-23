@@ -32,13 +32,13 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **February 2024**: One month research stay at [Hinrich Schütze's Lab](https://cisnlp.github.io) at LMU Munich.
 
-**December 2023**: Poster presentation of our ULF paper at EMNLP 2023 in Singapore. 
+**December 2023**: I presented our ULF paper at EMNLP 2023 in Singapore. 
 
 **October 2023** : [ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision](https://arxiv.org/pdf/2204.06863) was accepted to [EMNLP 2023](https://2023.emnlp.org/)! (poster)
 
 **September 2023** : Invited tutorial on weak supervision at ''Machine Learning with Limited Data” seminar at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
 
-**September 2023**: Oral presentation of our paper "Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal" at ECML PKDD 2023 in Turin. 
+**September 2023**: I gave an oral presentation of our paper "Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal" at ECML PKDD 2023 in Turin. 
 
 **June 2023**: [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster) Check out the [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf) as well. 
 
@@ -50,7 +50,7 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **November 2021**: Knodle framework presentation at the 3d Workshop of [European Language Resource Coordination (ELRC)](https://www.lr-coordination.eu).  
 
-**August 2021**: Oral presentation of our Knodle paper online at [ACL 2021](https://2021.aclweb.org/)!
+**August 2021**: I have an oral presentation of our Knodle paper online at [ACL 2021](https://2021.aclweb.org/)!
 
 **August 2021**: I attended the [OxML'21 summer school](https://www.oxfordml.school/oxml2021) organized by AI for Global Goals in partnership with CIFAR and the University of Oxford.
 The program included talks by Yoshua Bengio, Sebastian Ruder, Michael Bronstein and others. 
