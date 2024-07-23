@@ -36,7 +36,7 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **October 2023** : Our paper [ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision](https://arxiv.org/pdf/2204.06863) was accepted to [EMNLP 2023](https://2023.emnlp.org/)!
 
-**September 2023** : Invited tutorial on weak supervision at PhD Seminar “Machine Learning with Limited Data” at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
+**September 2023** : Invited tutorial on weak supervision at ''Machine Learning with Limited Data” seminar at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
 
 **September 2023**: I gave an oral presentation at [ECML PKDD 2023](https://2023.ecmlpkdd.org) in Turin presenting our paper "Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal". 
 
