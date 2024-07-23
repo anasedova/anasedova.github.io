@@ -67,7 +67,7 @@ Upd: check out [my Medium post](https://medium.com/deeppavlov/relation-extractio
 
 **April 2021**: [Knodle](www.knodle.cc) first release!! Check out the [source code](https://github.com/knodle/knodle). 
 
-I am also honored to serve as a reviewer at multiple international conferences, such as ACL, EMNLP, NAACL, EACL, ECML, ILCR, IEEE PAMI, and others.
+I am also honored to serve as a reviewer for multiple journals and international conferences, such as ACL, EMNLP, NAACL, EACL, ECML, ILCR, IEEE PAMI, and others.
 
 
 ## Selected Publications
@@ -83,13 +83,13 @@ ECML PKDD 2023
 ACL 2023
 - [Knodle: Modular Weakly Supervised Learning with PyTorch](https://arxiv.org/pdf/2104.11557) \
 **Anastasiia Sedova**, Andreas Stephan, Marina Speranskaya, Benjamin Roth \
-RepL4NLP-2021, ACL 2021
+RepL4NLP-2021 @ACL 2021
 
 ## Thesis supervision
 
 - Benedikt Köhler (11/2022-) _Political Leaning Prediction of News Paper Articles_, MSc thesis.
 - Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, MSc thesis.
-- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, MSc thesis (_cum laude_, top-3 students in 2022)
+- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, MSc thesis (_cum laude_, top-3 students in 2022).
 
 
 
