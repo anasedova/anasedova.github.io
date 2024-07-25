@@ -45,6 +45,11 @@ author_profile: true
     }
 </style>
 
+- _Behavioral Testing: Can Large Language Models Implicitly Resolve Ambiguous Entities?_ \
+Anastasiia Sedova, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara Plank \
+ArXiv preprint \
+[paper](https://arxiv.org/pdf/2407.17125)
+
 - _Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency_ \
 Vasiliki Kougia, **Anastasiia Sedova**, Andreas Stephan, Benjamin Roth \
 BioNLP @ACL 2024 \
