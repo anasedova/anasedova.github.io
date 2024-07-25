@@ -46,7 +46,7 @@ author_profile: true
 </style>
 
 - _Behavioral Testing: Can Large Language Models Implicitly Resolve Ambiguous Entities?_ \
-Anastasiia Sedova, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara Plank \
+**Anastasiia Sedova**, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara Plank \
 ArXiv preprint \
 [paper](https://arxiv.org/pdf/2407.17125)
 
