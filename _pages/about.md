@@ -73,6 +73,9 @@ I am also honored to serve as a reviewer for multiple journals and international
 
 ## Selected Publications
 
+- [Behavioral Testing: Can Large Language Models Implicitly Resolve Ambiguous Entities?](https://arxiv.org/pdf/2407.17125) \
+**Anastasiia Sedova**, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara Plank \
+preprint
 - [ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision](https://arxiv.org/pdf/2204.06863) \
 **Anastasiia Sedova**, Benjamin Roth \
 EMNLP 2023
