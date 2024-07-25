@@ -47,7 +47,7 @@ author_profile: true
 
 - _Behavioral Testing: Can Large Language Models Implicitly Resolve Ambiguous Entities?_ \
 **Anastasiia Sedova**, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara Plank \
-ArXiv preprint \
+ArXiv preprint, 2024 \
 [paper](https://arxiv.org/pdf/2407.17125)
 
 - _Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency_ \
@@ -57,7 +57,7 @@ BioNLP @ACL 2024 \
 
 - _Exploring prompts to elicit memorization in masked language model-based named entity recognition_  \
 Yuxi Xia, **Anastasiia Sedova**, Pedro Henrique Luz de Araujo, Vasiliki Kougia, Lisa Nußbaumer, Benjamin Roth \
-ArXiv preprint \
+ArXiv preprint, 2024 \
 [paper](https://arxiv.org/pdf/2405.03004)
 
 - _ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision_ \
