@@ -41,7 +41,7 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **September 2023**: Oral & [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf) presentation of our paper "Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal" at ECML PKDD 2023 in Turin. 
 
-**June 2023**: [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)!
+**June 2023**: [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster)
 
 **May 2023**: [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://aclanthology.org/2023.acl-short.158.pdf) was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check out the [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
 
@@ -51,7 +51,7 @@ My research interests are learning with noisy and ambiguous data, data-centric m
 
 **November 2021**: Oral presentation of Knodle framework at the 3d Workshop of [European Language Resource Coordination (ELRC)](https://www.lr-coordination.eu).  
 
-**August 2021**: Oral presentation of our Knodle paper online at [ACL 2021](https://2021.aclweb.org/)!
+**August 2021**: Oral presentation of our Knodle paper at [ACL 2021](https://2021.aclweb.org/). 
 
 **August 2021**: I attended the [OxML'21 summer school](https://www.oxfordml.school/oxml2021) organized by AI for Global Goals in partnership with CIFAR and the University of Oxford.
 The program included talks by Yoshua Bengio, Sebastian Ruder, Michael Bronstein and others. 
