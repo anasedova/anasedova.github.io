@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year PhD student in the NLP Research Group, a part of [Data Mining and Machine Learning Research Group](https://dm.cs.univie.ac.at) at 
 the University of Vienna, where I am advised by [Ben Roth](https://www.benjaminroth.net), 
-working on machine learning and natural language processing. 
+working on natural language processing. 
 Previously, I completed my M.Sc. degrees in Computational Linguistics and Computer Science in the 
 [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) 
 at [LMU Munich](https://www.lmu.de/en/index.html) with a full scholarship from the 
