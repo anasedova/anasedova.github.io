@@ -37,15 +37,15 @@ model explainability and trustworthiness.
 
 **December 2023**: Poster presentation of ULF paper at EMNLP 2023 in Singapore. 
 
-**October 2023** : [ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision](https://arxiv.org/pdf/2204.06863) was accepted to [EMNLP 2023](https://2023.emnlp.org/)! (poster)
+**October 2023** : [ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision](https://arxiv.org/pdf/2204.06863) was accepted to [EMNLP 2023](https://2023.emnlp.org/)!
 
 **September 2023** : Invited tutorial at "Machine Learning with Limited Data" seminar at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering) in Copenhagen. Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
 
 **September 2023**: Oral & [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf) presentation of our paper "Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal" at ECML PKDD 2023 in Turin. 
 
-**June 2023**: [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)! (oral & poster)
+**June 2023**: [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)!
 
-**May 2023**: [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://aclanthology.org/2023.acl-short.158.pdf) was accepted to [ACL 2023](https://2023.aclweb.org/)! (poster) Check out the [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
+**May 2023**: [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://aclanthology.org/2023.acl-short.158.pdf) was accepted to [ACL 2023](https://2023.aclweb.org/)! Check out the [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
 
 **January 2023**: Invited talk at the [Technical University of Vienna](https://nlp.ec.tuwien.ac.at) on the potential application and future perspectives of weak supervision.
 
