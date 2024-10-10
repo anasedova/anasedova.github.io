@@ -45,10 +45,10 @@ author_profile: true
     }
 </style>
 
-- _Behavioral Testing: Can Large Language Models Implicitly Resolve Ambiguous Entities?_ \
+- _To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity_ \
 **Anastasiia Sedova**, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara Plank \
-ArXiv preprint, 2024 \
-[paper](https://arxiv.org/pdf/2407.17125)
+EMNLP 2024 Findings \
+[paper](https://arxiv.org/abs/2407.17125v3)
 
 - _Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency_ \
 Vasiliki Kougia, **Anastasiia Sedova**, Andreas Stephan, Benjamin Roth \
