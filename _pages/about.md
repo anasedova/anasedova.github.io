@@ -21,7 +21,7 @@ model explainability and trustworthiness.
 
 ## News
 
-**October 2024**: [To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity](https://arxiv.org/abs/2407.17125v3) was accepted to EMNLP 2024 Findings! 
+**October 2024**: Our paper [To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity](https://arxiv.org/abs/2407.17125v3) was accepted to EMNLP 2024 Findings! 
 
 **July 2024**: I am at [ICML'24](https://icml.cc). [Ping me](https://twitter.com/anasedova) to grad a coffee!
 
@@ -37,15 +37,15 @@ model explainability and trustworthiness.
 
 **December 2023**: I am at EMNLP 2023 in Singapore to present our [ULF paper](https://arxiv.org/pdf/2204.06863). 
 
-**October 2023** : [ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision](https://arxiv.org/pdf/2204.06863) was accepted to [EMNLP 2023](https://2023.emnlp.org/)!
+**October 2023** : Our paper [ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision](https://arxiv.org/pdf/2204.06863) was accepted to [EMNLP 2023](https://2023.emnlp.org/)!
 
-**September 2023** : I am in Copenhagen to give an invited tutorial at Machine Learning with Limited Data seminar at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering). Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
+**September 2023** : I am in Copenhagen to give an invited tutorial at [Aalborg University](https://www.cs.aau.dk/research/dkw-data-knowledge-and-web-engineering). Check out [the materials](https://github.com/anasedova/weak_supervision_tutorial).
 
-**September 2023**: I am at ECML PKDD 2023 in Turin to give an oral presentation of our paper "Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal" ( + [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf)). 
+**September 2023**: I am at ECML PKDD 2023 in Turin to give an oral presentation of our paper [AGRA paper](https://arxiv.org/pdf/2306.04502) (+ [poster](https://github.com/anasedova/AGRA/blob/main/ECML_poster.pdf)). 
 
-**June 2023**: [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)!
+**June 2023**: Our paper [Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal](https://arxiv.org/pdf/2306.04502) was accepted to [ECML PKDD 2023](https://2023.ecmlpkdd.org)!
 
-**May 2023**: [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://aclanthology.org/2023.acl-short.158.pdf) was accepted to [ACL 2023](https://2023.aclweb.org/)! Check out the [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
+**May 2023**: Our paper [ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion](https://aclanthology.org/2023.acl-short.158.pdf) was accepted to [ACL 2023](https://2023.aclweb.org/)! Check out the [poster](https://github.com/anasedova/ACTC/blob/main/ACL_poster.pdf).
 
 **January 2023**: I gave an invited talk at the [Technical University of Vienna](https://nlp.ec.tuwien.ac.at) on the potential application and future perspectives of weak supervision.
 
