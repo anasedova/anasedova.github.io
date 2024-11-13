@@ -21,9 +21,12 @@ model explainability and trustworthiness.
 
 ## News
 
-**October 2024**: Our paper [To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity](https://arxiv.org/abs/2407.17125v3) was accepted to EMNLP 2024 Findings! 
+**November 2024**: I am at EMNLP 2024 in Miami, presenting our "To Know or Not to Know?" paper (Thursday, 10:30-12:00). 
+Come and say hi if you are around!
 
-**July 2024**: I am at [ICML'24](https://icml.cc). [Ping me](https://twitter.com/anasedova) to grad a coffee!
+**October 2024**: Our paper [To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity](https://arxiv.org/abs/2407.17125v3) was accepted to EMNLP 2024 Findings! A joint work with MaiNLP lab. 
+
+**July 2024**: I am at [ICML'24](https://icml.cc). [Ping me](https://twitter.com/anasedova) to grab a coffee!
 
 **June 2024**: New preprints:
 - [Exploring prompts to elicit memorization in masked language model-based named entity recognition](https://arxiv.org/abs/2405.03004)
