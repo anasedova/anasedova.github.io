@@ -50,7 +50,8 @@ author_profile: true
 EMNLP 2024 Findings \
 [paper](https://arxiv.org/abs/2407.17125v3)
 <a href="javascript:addAbstract(to_know_abstract, 'To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity')">abstract</a>
-
+<a href="javascript:copyCitation(to_know_citation, to_know_citation_text)">.bibtex</a>
+- 
 - _Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency_ \
 Vasiliki Kougia, **Anastasiia Sedova**, Andreas Stephan, Benjamin Roth \
 BioNLP @ACL 2024 \

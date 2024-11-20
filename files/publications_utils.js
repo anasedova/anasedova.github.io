@@ -50,8 +50,6 @@ var actc_citation_text = '@inproceedings{sedova-roth-2023-actc, \n ' +
     ' \t pages = "1853--1863"}';
 
 
-
-
 var to_know_abstract = 'One of the major aspects contributing to the striking performance of large language ' +
     'models (LLMs) is the vast amount of factual knowledge accumulated during pre-training. Yet, many LLMs suffer from ' +
     'self-inconsistency, which raises doubts about their trustworthiness and reliability. This paper focuses on entity ' +
