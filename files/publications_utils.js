@@ -49,6 +49,46 @@ var actc_citation_text = '@inproceedings{sedova-roth-2023-actc, \n ' +
     ' \t url = "https://aclanthology.org/2023.acl-short.158",\n' +
     ' \t pages = "1853--1863"}';
 
+
+
+
+var to_know_abstract = 'One of the major aspects contributing to the striking performance of large language ' +
+    'models (LLMs) is the vast amount of factual knowledge accumulated during pre-training. Yet, many LLMs suffer from ' +
+    'self-inconsistency, which raises doubts about their trustworthiness and reliability. This paper focuses on entity ' +
+    'type ambiguity, analyzing the proficiency and con- sistency of state-of-the-art LLMs in applying factual knowledge ' +
+    'when prompted with am- biguous entities. To do so, we propose an eval- uation protocol that disentangles knowing ' +
+    'from applying knowledge, and test state-of-the-art LLMs on 49 ambiguous entities. Our experi- ments reveal that ' +
+    'LLMs struggle with choos- ing the correct entity reading, achieving an av- erage accuracy of only 85%, and as low ' +
+    'as 75% with underspecified prompts. The results also reveal systematic discrepancies in LLM behavior, showing ' +
+    'that while the models may possess knowledge, they struggle to apply it consistently, exhibit biases toward ' +
+    'preferred readings, and display self-inconsistencies. This highlights the need to address entity ambiguity in ' +
+    'the future for more trustworthy LLMs.';
+
+var to_know_citation = '@inproceedings{sedova-etal-2024-know, ' +
+    'title = "To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity",' +
+    'author = "Sedova, Anastasiia and Litschko, Robert and Frassinelli, Diego and Roth, Benjamin and Plank, Barbara",' +
+    'editor = "Al-Onaizan, Yaser and Bansal, Mohit and Chen, Yun-Nung",' +
+    'booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",' +
+    'month = nov,' +
+    'year = "2024",' +
+    'address = "Miami, Florida, USA",' +
+    'publisher = "Association for Computational Linguistics",' +
+    'url = "https://aclanthology.org/2024.findings-emnlp.1003",' +
+    'pages = "17203--17217"}';
+
+var to_know_citation_text = '@inproceedings{sedova-etal-2024-know, \n ' +
+    ' \t title = "To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity",\n' +
+    ' \t author = "Sedova, Anastasiia and Litschko, Robert and Frassinelli, Diego and Roth, Benjamin and Plank, Barbara",\n' +
+    ' \t editor = "Al-Onaizan, Yaser and Bansal, Mohit and Chen, Yun-Nung",\n' +
+    ' \t booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",\n' +
+    ' \t month = nov,\n' +
+    ' \t year = "2024",\n' +
+    ' \t address = "Miami, Florida, USA",\n' +
+    ' \t publisher = "Association for Computational Linguistics",\n' +
+    ' \t url = "https://aclanthology.org/2024.findings-emnlp.1003",\n' +
+    ' \t pages = "17203--17217"}';
+
+
 var agra_abstract = "An accurate and substantial dataset is essential for training a reliable and " +
     "well-performing model. However, even manually annotated datasets contain label errors, not to mention " +
     "automatically labeled ones. Previous methods for label denoising have primarily focused on detecting outliers and " +

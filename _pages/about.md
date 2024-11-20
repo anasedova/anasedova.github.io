@@ -15,9 +15,8 @@ Previously, I completed my M.Sc. degrees in Computational Linguistics and Comput
 [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) 
 at [LMU Munich](https://www.lmu.de/en/index.html) with a full scholarship from the 
 [German Academic Exchange Service](https://www.daad.de/en/). 
-My research interests include (but not limited to) generative language modeling,
-data-centric methods for language models, and
-model explainability and trustworthiness.
+My research interests include (but not limited to)
+data-centric methods for language models and model explainability and trustworthiness.
 
 ## News
 
