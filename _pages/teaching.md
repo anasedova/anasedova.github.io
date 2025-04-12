@@ -7,31 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# Winter 2024/2025
-- Database Systems
-- Open-Source Large Language Models (Winter 2024/2025)
-
-# Summer 2024
-- Deep Learning for Natural Language Processing
-
-# Winter 2023/2024
-- Introduction to programming 
-
-# Summer 2024
-- Introduction to programming
-
-# Winter 2023/2024
-- Capabilities and Limitations of language-based AI models
-
-# Summer 2022
-- Topics in Deep Learning and Natural Language Processing 
-- Scientific Data Management
-
-# Winter 2022/2023
-- Computational Linguistics
-- Text Mining for Non-Computer Scientists on the Example of Discourse Analysis
-
-# Data Analysis Projects
+### Data Analysis Projects
 (semester-long individual and group student projects)
 - Multilingual Parser for Under-resourced Languages (Summer 2024)
 - Language Similarity by Multilingual Parsing Performance (Summer 2024)
@@ -46,6 +22,36 @@ nav_order: 6
 - Extraction of Structured Information using Weak Supervision (Winter 2021/2022)
 - Wiener Diarium: Finding Toponyms in Obituaries (Winter 2021/2022)
 - Automatic Identifying Civilians Killed by Police (Winter 2021/2022)
+
+### Thesis Supervision
+- Benedikt Köhler (11/2022-) _Political Leaning Prediction of News Paper Articles_, MSc thesis.
+- Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, MSc thesis.
+- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, MSc thesis (_cum laude_, top-3 students in 2022).
+
+
+### Winter 2024/2025
+- Database Systems
+- Open-Source Large Language Models
+
+### Summer 2024
+- Deep Learning for Natural Language Processing
+
+### Winter 2023/2024
+- Introduction to programming 
+
+### Summer 2024
+- Introduction to programming
+
+### Winter 2023/2024
+- Capabilities and Limitations of language-based AI models
+
+### Summer 2022
+- Topics in Deep Learning and Natural Language Processing 
+- Scientific Data Management
+
+### Winter 2022/2023
+- Computational Linguistics
+- Text Mining for Non-Computer Scientists on the Example of Discourse Analysis
 
 
 
