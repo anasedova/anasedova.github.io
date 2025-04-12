@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -19,10 +18,10 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -33,6 +32,6 @@ working on machine learning and natural language processing.
 Previously, I completed my M.Sc. degrees in Computational Linguistics and Computer Science in the 
 [Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) 
 at [LMU Munich](https://www.lmu.de/en/index.html) with a full scholarship from the 
-[German Academic Exchange Service](https://www.daad.de/en/). 
-My research interests include (but not limited to)
-data-centric methods for language models and model explainability and trustworthiness.
+[German Academic Exchange Service](https://www.daad.de/en/).
+
+My research interests include (but not limited to) noisy and low-resource learning and model explainability and trustworthiness.
