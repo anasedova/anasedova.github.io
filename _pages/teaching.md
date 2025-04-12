@@ -15,7 +15,7 @@ nav_order: 6
 - Cross-metric evaluation of fairness optimization (Winter 2023/2024)
 - Recent Approaches to Authorship Attribution (Summer 2023)
 - Authorship Attribution Dataset based on the Reddit Threads (Summer 2023)
-- Counterfactual Reasoning with KG & Box Embeddings (Summer 2023)
+- Counterfactual Reasoning with Knowledge Graphs & Box Embeddings (Summer 2023)
 - Prompt-based Temporal Relation Extraction (Summer 2023)
 - Weak Supervision in Medical Domain (Winter 2022/20253)
 - Incomplete Schema Clustering for the Relation Extraction (Winter 2022/20253)
@@ -24,9 +24,9 @@ nav_order: 6
 - Automatic Identifying Civilians Killed by Police (Winter 2021/2022)
 
 ### Thesis Supervision
-- Benedikt Köhler (11/2022-) _Political Leaning Prediction of News Paper Articles_, MSc thesis.
-- Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, MSc thesis.
-- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, MSc thesis (_cum laude_, top-3 students in 2022).
+- Benedikt Köhler (11/2022-) _Political Leaning Prediction of Newspaper Articles_, M.Sc. thesis
+- Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, M.Sc. thesis
+- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, M.Sc. thesis (_cum laude_, top-3 students in 2022)
 
 
 ### Winter 2024/2025
