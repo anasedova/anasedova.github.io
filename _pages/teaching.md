@@ -46,7 +46,7 @@ nav_order: 6
 ### Winter 2022/2023
 - Computational Linguistics
 - Text Mining for Non-Computer Scientists on the Example of Discourse Analysis
-- 
+
 ### Summer 2022
 - Topics in Deep Learning and Natural Language Processing 
 - Scientific Data Management
