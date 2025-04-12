@@ -18,27 +18,28 @@
     slides={Know_not_know_slides.pdf},
     code={https://github.com/anasedova/ToKnow_or_NotToKnow},
     poster={emnlp23_know_not_know_poster.pdf},
-    selected={true}
+    selected={true},
+    bibtex_show = {true},
 }
 
-@inbook{Sedova_2023,
+@inproceedings{Sedova_2023,
    title={Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal},
+   author={Sedova, Anastasiia and Zellinger, Lena and Roth, Benjamin},
+   booktitle={Machine Learning and Knowledge Discovery in Databases: Research Track},
+   year={2023},
    ISBN={9783031434129},
    ISSN={1611-3349},
    url={http://dx.doi.org/10.1007/978-3-031-43412-9_14},
    DOI={10.1007/978-3-031-43412-9_14},
-   booktitle={Machine Learning and Knowledge Discovery in Databases: Research Track},
    publisher={Springer Nature Switzerland},
-   author={Sedova, Anastasiia and Zellinger, Lena and Roth, Benjamin},
-   year={2023},
    pages={237–253},
-   selected={true},
    abstract={An accurate and substantial dataset is essential for training a reliable and well-performing model. However, even manually annotated datasets contain label errors, not to mention automatically labeled ones. Previous methods for label denoising have primarily focused on detecting outliers and their permanent removal - a process that is likely to over- or underfilter the dataset. In this work, we propose AGRA: a new method for learning with noisy labels by using Adaptive GRAdient-based outlier removal. Instead of cleaning the dataset prior to model training, the dataset is dynamically adjusted during the training process. By comparing the aggregated gradient of a batch of samples and an individual example gradient, our method dynamically decides whether a corresponding example is helpful for the model at this point or is counter-productive and should be left out for the current update. Extensive evaluation on several datasets demonstrates AGRA's effectiveness, while a comprehensive results analysis supports our initial hypothesis: permanent hard outlier removal is not always what model benefits the most from.},
    pdf={https://arxiv.org/abs/2306.04502},
    preview={agra_preview.png},
    slides={AGRA_pres.pdf},
    poster={AGRA_poster.pdf},
    code={https://github.com/anasedova/AGRA},
+   selected={true},
 }
 
 @inproceedings{sedova-roth-2023-actc,
@@ -131,7 +132,7 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2405.03004},
       pdf = {https://arxiv.org/pdf/2405.03004},
-    preview={temp_re_preview.png},
+    preview={memorization_preview.png},
     code = {https://github.com/Yuuxii/NER-memorization-detection},
 }
 
