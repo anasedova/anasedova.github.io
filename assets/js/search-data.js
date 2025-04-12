@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -429,8 +422,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-to-know-or-not-to-know-analyzing-self-consistency-of-large-language-models-under-ambiguity-was-accepted-to-emnlp-2024-findings-a-joint-work-with-mainlp-lab",
           title: 'Our paper To Know or Not To Know? Analyzing Self-Consistency of Large Language...',
           description: "",
-          section: "News",},{id: "news-i-have-started-an-internship-at-machine-learning-research-at-apple-i-will-work-with-maartje-ter-hoeve-and-natalie-schluter",
-          title: 'I have started an internship at Machine Learning Research at Apple! I will...',
+          section: "News",},{id: "news-extremely-excited-to-start-an-internship-at-machine-learning-research-at-apple-i-will-work-with-maartje-ter-hoeve-and-natalie-schluter",
+          title: 'Extremely excited to start an internship at Machine Learning Research at Apple! I...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -492,6 +485,13 @@ ninja.data = [{
           window.open("https://github.com/anasedova", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/anastasiia-sedova", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -504,6 +504,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.semanticscholar.org/author/2083547494", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/anasedova", "_blank");
         },
       },{
       id: 'light-theme',
