@@ -1,7 +1,38 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@inproceedings{sedova-etal-2024-know,
+    title = {To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity},
+    author = {Sedova, Anastasiia and Litschko, Robert  and Frassinelli, Diego  and Roth, Benjamin  and Plank, Barbara},
+    booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2024},
+    month = {nov},
+    year = {2024},
+    address = {Miami, Florida, USA},
+    publisher = {Association for Computational Linguistics},
+    url = {https://aclanthology.org/2024.findings-emnlp.1003/},
+    doi = {10.18653/v1/2024.findings-emnlp.1003},
+    pages = {17203--17217},
+    abstract = {One of the major aspects contributing to the striking performance of large language models (LLMs) is the vast amount of factual knowledge accumulated during pre-training. Yet, many LLMs suffer from self-inconsistency, which raises doubts about their trustworthiness and reliability. This paper focuses on entity type ambiguity, analyzing the proficiency and consistency of state-of-the-art LLMs in applying factual knowledge when prompted with ambiguous entities. To do so, we propose an evaluation protocol that disentangles knowing from applying knowledge, and test state-of-the-art LLMs on 49 ambiguous entities. Our experiments reveal that LLMs struggle with choosing the correct entity reading, achieving an average accuracy of only 85{\%}, and as low as 75{\%} with underspecified prompts. The results also reveal systematic discrepancies in LLM behavior, showing that while the models may possess knowledge, they struggle to apply it consistently, exhibit biases toward preferred readings, and display self-inconsistencies. This highlights the need to address entity ambiguity in the future for more trustworthy LLMs.},
+    selected = {true}
+}
+
+@inbook{Sedova_2023,
+   title={Learning with Noisy Labels by Adaptive Gradient-Based Outlier Removal},
+   ISBN={9783031434129},
+   ISSN={1611-3349},
+   url={http://dx.doi.org/10.1007/978-3-031-43412-9_14},
+   DOI={10.1007/978-3-031-43412-9_14},
+   booktitle={Machine Learning and Knowledge Discovery in Databases: Research Track},
+   publisher={Springer Nature Switzerland},
+   author={Sedova, Anastasiia and Zellinger, Lena and Roth, Benjamin},
+   year={2023},
+   pages={237–253},
+   selected = {true},
+   abstract={An accurate and substantial dataset is essential for training a reliable and well-performing model. However, even manually annotated datasets contain label errors, not to mention automatically labeled ones. Previous methods for label denoising have primarily focused on detecting outliers and their permanent removal - a process that is likely to over- or underfilter the dataset. In this work, we propose AGRA: a new method for learning with noisy labels by using Adaptive GRAdient-based outlier removal. Instead of cleaning the dataset prior to model training, the dataset is dynamically adjusted during the training process. By comparing the aggregated gradient of a batch of samples and an individual example gradient, our method dynamically decides whether a corresponding example is helpful for the model at this point or is counter-productive and should be left out for the current update. Extensive evaluation on several datasets demonstrates AGRA's effectiveness, while a comprehensive results analysis supports our initial hypothesis: permanent hard outlier removal is not always what model benefits the most from.},
+    arxiv = {https://arxiv.org/abs/2306.04502},
+
+}
+
 
 @book{einstein1920relativity,
   title={Relativity: the Special and General Theory},

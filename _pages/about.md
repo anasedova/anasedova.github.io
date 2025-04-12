@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a fourth-year PhD student in the NLP Lab, a part of [Data Mining and Machine Learning Research Group ](https://dm.cs.univie.ac.at) at 
+the University of Vienna, where I am advised by [Ben Roth](https://www.benjaminroth.net), 
+working on machine learning and natural language processing. 
+Previously, I completed my M.Sc. degrees in Computational Linguistics and Computer Science in the 
+[Center for Information and Language Processing](https://www.cis.uni-muenchen.de/) 
+at [LMU Munich](https://www.lmu.de/en/index.html) with a full scholarship from the 
+[German Academic Exchange Service](https://www.daad.de/en/). 
+My research interests include (but not limited to)
+data-centric methods for language models and model explainability and trustworthiness.
