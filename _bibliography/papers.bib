@@ -43,6 +43,32 @@
    bibtex_show = {true},
 }
 
+@inproceedings{sedova-roth-2023-ulf,
+    title = "{ULF}: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision",
+    author = "Sedova, Anastasiia  and
+      Roth, Benjamin",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.254/",
+    doi = "10.18653/v1/2023.emnlp-main.254",
+    pages = "4162--4176",
+    slides={ULF_EMNLP_pres.pdf},
+    poster={ULF_poster.pdf},
+    preview = {ulf_preview.png},
+    code={https://github.com/anasedova/ULF},
+    abstract="A cost-effective alternative to manual data labeling is weak supervision (WS), where data samples are automatically annotated using a predefined set of labeling functions (LFs), rule-based mechanisms that generate artificial labels for the associated classes. In this work, we investigate noise reduction techniques for WS based on the principle of k-fold cross-validation. We introduce a new algorithm ULF for Unsupervised Labeling Function correction, which denoises WS data by leveraging models trained on all but some LFs to identify and correct biases specific to the held-out LFs. Specifically, ULF refines the allocation of LFs to classes by re-estimating this assignment on highly reliable cross-validated samples. Evaluation on multiple datasets confirms ULF`s effectiveness in enhancing WS learning without the need for manual labeling.",
+    bibtex_show = {true}
+}
+
+ULF: Unsupervised Labeling Function Correction
+using Cross-Validation for Weak Supervision
+
 @inproceedings{sedova-roth-2023-actc,
     title = "{ACTC}: Active Threshold Calibration for Cold-Start Knowledge Graph Completion",
     author = "Sedova, Anastasiia  and
