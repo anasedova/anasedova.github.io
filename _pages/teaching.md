@@ -37,21 +37,19 @@ nav_order: 6
 - Deep Learning for Natural Language Processing
 
 ### Winter 2023/2024
+- Capabilities and Limitations of language-based AI models
 - Introduction to programming 
 
-### Summer 2024
+### Summer 2023
 - Introduction to programming
-
-### Winter 2023/2024
-- Capabilities and Limitations of language-based AI models
-
-### Summer 2022
-- Topics in Deep Learning and Natural Language Processing 
-- Scientific Data Management
 
 ### Winter 2022/2023
 - Computational Linguistics
 - Text Mining for Non-Computer Scientists on the Example of Discourse Analysis
+- 
+### Summer 2022
+- Topics in Deep Learning and Natural Language Processing 
+- Scientific Data Management
 
 
 
