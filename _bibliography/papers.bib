@@ -92,8 +92,67 @@
     pdf={https://aclanthology.org/2021.repl4nlp-1.12.pdf},
     preview={knodle.png},
     code={https://github.com/knodle/knodle},
-    selected={true},
+    selected={true}
+}
 
+
+@inproceedings{kougia-etal-2024-analysing,
+    title = "Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency",
+    author = "Kougia, Vasiliki  and
+      Sedova, Anastasiia  and
+      Stephan, Andreas Joseph  and
+      Zaporojets, Klim  and
+      Roth, Benjamin",
+    editor = "Demner-Fushman, Dina  and
+      Ananiadou, Sophia  and
+      Miwa, Makoto  and
+      Roberts, Kirk  and
+      Tsujii, Junichi",
+    booktitle = "Proceedings of the 23rd Workshop on Biomedical Natural Language Processing",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.bionlp-1.6/",
+    doi = "10.18653/v1/2024.bionlp-1.6",
+    pages = "72--84",
+    abstract = "This paper presents the first study for temporal relation extraction in a zero-shot setting focusing on biomedical text. We employ two types of prompts and five Large Language Models (LLMs; GPT-3.5, Mixtral, Llama 2, Gemma, and PMC-LLaMA) to obtain responses about the temporal relations between two events. Our experiments demonstrate that LLMs struggle in the zero-shot setting, performing worse than fine-tuned specialized models in terms of F1 score. This highlights the challenging nature of this task and underscores the need for further research to enhance the performance of LLMs in this context. We further contribute a novel comprehensive temporal analysis by calculating consistency scores for each LLM. Our findings reveal that LLMs face challenges in providing responses consistent with the temporal properties of uniqueness and transitivity. Moreover, we study the relation between the temporal consistency of an LLM and its accuracy, and whether the latter can be improved by solving temporal inconsistencies. Our analysis shows that even when temporal consistency is achieved, the predictions can remain inaccurate.",
+    pdf = {https://aclanthology.org/2024.bionlp-1.6.pdf},
+    preview={temp_re_preview.png},
+    code={https://github.com/vasilikikou/consistent_bioTempRE}
+}
+
+@misc{xia2024exploringpromptselicitmemorization,
+      title={Exploring prompts to elicit memorization in masked language model-based named entity recognition},
+      author={Yuxi Xia and Anastasiia Sedova and Pedro Henrique Luz de Araujo and Vasiliki Kougia and Lisa Nußbaumer and Benjamin Roth},
+      year={2024},
+      eprint={2405.03004},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2405.03004},
+      pdf = {https://arxiv.org/pdf/2405.03004},
+    preview={temp_re_preview.png},
+    code = {https://github.com/Yuuxii/NER-memorization-detection},
+}
+
+
+
+@inproceedings{10.1145/3143699.3143734,
+    author = {Mitrofanova, Olga and Sedova, Anastasiia},
+    title = {Topic Modelling in Parallel and Comparable Fiction Texts (the case study of English and Russian prose)},
+    year = {2017},
+    isbn = {9781450354370},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3143699.3143734},
+    doi = {10.1145/3143699.3143734},
+    abstract = {The paper is devoted to processing parallel and comparable corpora by means of topic modelling. We focus our attention on Russian and English parallel and comparable texts. We use Latent Dirichlet Allocation (LDA) algorithm for building topic models of fiction texts, evaluation of compatibility for the original text and its translation(s), selection of possible translation equivalents.},
+    booktitle = {Proceedings of the International Conference IMS-2017},
+    pages = {175–180},
+    numpages = {6},
+    keywords = {English, Fiction, Parallel and Comparable Texts, Russian, Text Corpora, Topic Modelling},
+    location = {Saint Petersburg, Russian Federation},
+    series = {IMS2017}
 }
 
 
