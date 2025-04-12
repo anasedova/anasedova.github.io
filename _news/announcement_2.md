@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-12 16:11:00-0400
+date: 2024-09-20 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-I am at EMNLP 2024 in Miami, presenting our "To Know or Not to Know?" paper (Thursday, 10:30-12:00). Come and say hi if you are around!
+Our paper [To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity](https://arxiv.org/abs/2407.17125v3) was accepted to EMNLP 2024 Findings! A joint work with MaiNLP lab.

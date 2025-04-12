@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-04-07
+date: 2025-04-07
 inline: true
 related_posts: false
 ---
 
-I have started an internship at Machine Learning Research at Apple with Maartje Ter Hoeve and Natalie Schluter
+I have started an internship at exciting [Machine Learning Research at Apple](https://machinelearning.apple.com) with [Maartje Ter Hoeve](https://maartjeth.github.io) and [Natalie Schluter](https://natschluter.github.io).
