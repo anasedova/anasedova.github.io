@@ -51,7 +51,3 @@ nav_order: 6
 ### Summer 2022
 - Topics in Deep Learning and Natural Language Processing 
 - Scientific Data Management
-
-
-
-
