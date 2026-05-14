@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the Apple MLR's Copenhagen team as a machine learning researcher. 
+I joined the [Apple's Machine Learning Research (MLR)](https://machinelearning.apple.com/) team in Copenhagen as a Machine Learning Researcher.
