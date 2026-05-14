@@ -7,8 +7,13 @@ title: teaching
 nav: true
 nav_order: 6
 ---
+### Thesis Supervision
 
-### Data Analysis Projects
+- Benedikt Köhler (11/2022-) _Political Leaning Prediction of Newspaper Articles_, M.Sc. thesis
+- Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, M.Sc. thesis
+- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, M.Sc. thesis (_cum laude_, top-3 students in 2022)
+
+### Data Analysis Projects Supervision
 
 (semester-long individual and group student projects)
 
@@ -26,11 +31,7 @@ nav_order: 6
 - Wiener Diarium: Finding Toponyms in Obituaries (Winter 2021/2022)
 - Automatic Identifying Civilians Killed by Police (Winter 2021/2022)
 
-### Thesis Supervision
-
-- Benedikt Köhler (11/2022-) _Political Leaning Prediction of Newspaper Articles_, M.Sc. thesis
-- Sarah Sulollari (10/2022- ) - _Analysing political developments by predicting party affiliation from Austrian parliament speeches_, M.Sc. thesis
-- Lena Zellinger (01/2022-08/2022) - _Gradient Matching for Learning with Noisy Data_, M.Sc. thesis (_cum laude_, top-3 students in 2022)
+---
 
 ### Winter 2024/2025
 
