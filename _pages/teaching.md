@@ -7,6 +7,7 @@ title: teaching
 nav: true
 nav_order: 6
 ---
+
 ### Thesis Supervision
 
 - Benedikt Köhler (11/2022-) _Political Leaning Prediction of Newspaper Articles_, M.Sc. thesis
